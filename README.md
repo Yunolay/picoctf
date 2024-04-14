@@ -38,7 +38,7 @@ picoctf writeup
 | runme.py | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/runme.py) |
 | Serpentine | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Serpentine) |
 | First Find | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/First%20Find) |
-| Big Zip | :white_check_mark: |  | 100 points |  |
+| Big Zip | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Big%20Zip) |
 | chrono | :white_check_mark: |  | 100 points |  |
 | money-ware | :white_check_mark: |  | 100 points |  |
 | Permissions | :white_check_mark: |  | 100 points |  |
