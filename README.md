@@ -6,7 +6,7 @@ picoctf writeup
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
 | Obedient Cat     | :white_check_mark: | :white_check_mark: | 5 points | [Writeup Link](./General%20Skills/Obedient%20Cat) |
-| Python Wrangling | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Python%20Wrangling |
+| Python Wrangling | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Python%20Wrangling) |
 | Wave a flag      | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Wave%20a%20flag) |
 | Nice netcat... | :white_check_mark: | :white_check_mark: | 15 points | [Writeup Link](./General%20Skills/Static%20ain't%20always%20noise) |
 | Static ain't always noise | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Python%20Wrangling) |
