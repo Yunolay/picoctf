@@ -28,8 +28,8 @@ picoctf writeup
 | convertme.py | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/convertme.py) |
 | fixme1.py | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/fixme1.py) |
 | fixme2.py | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/fixme2.py) |
-| Glitch Cat | :white_check_mark: |  | 100 points |  |
-| HashingJobApp | :white_check_mark: |  | 100 points |  |
+| Glitch Cat | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Glitch%20Cat) |
+| HashingJobApp | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/HashingJobApp) |
 | PW Crack 1 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%201) |
 | PW Crack 2 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%202) |
 | PW Crack 3 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%203) |
