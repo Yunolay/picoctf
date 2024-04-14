@@ -22,8 +22,8 @@ picoctf writeup
 | Collaborative Development | :white_check_mark: | :white_check_mark: | 75 points | [Writeup Link](./General%20Skills/Collaborative%20Development/README.md) |
 | what's a net cat? | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/what's%20a%20net%20cat?/README.md) |
 | strings it | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/strings%20it/README.md) |
-| Bases | :white_check_mark: | :white_check_mark: | 1000 points | [Writeup Link](./General%20Skills/Bases/README.md) |
-| First Grep | :white_check_mark: | :white_check_mark: | 1000 points | [Writeup Link](./General%20Skills/First%20Grep/README.md) |
+| Bases | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Bases/README.md) |
+| First Grep | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/First%20Grep/README.md) |
 | Codebook | :white_check_mark: |  | 100 points |  |
 | convertme.py | :white_check_mark: |  | 100 points |  |
 | fixme1.py | :white_check_mark: |  | 100 points |  |
