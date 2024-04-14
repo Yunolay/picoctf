@@ -70,21 +70,19 @@ Archive:  challenge.zip
 
 There was .git. Display the objects using the "git show" command.
 
-```bash
-$ cd drop-in 
-Commitment Issues/drop-in master                                                                                                                                                                                                                                20:29:04
+```bash                                                                                                                                                                                                                    20:29:04
 $ ls
 message.txt
-Commitment Issues/drop-in master                                                                                                                                                                                                                                20:29:04
+                                                                                                                                                                                                                            20:29:04
 $ ls -al
 total 8
 drwxr-xr-x@  4 yunolay  staff  128 Mar 10 06:10 .
 drwxr-xr-x   6 yunolay  staff  192 Apr 14 20:27 ..
 drwxr-xr-x@ 13 yunolay  staff  416 Apr 14 20:29 .git
 -rw-r--r--@  1 yunolay  staff   11 Mar 10 06:10 message.txt
-Commitment Issues/drop-in master                                                                                                                                                                                                                                20:29:08
+                                                                                                                                                                                                                            20:29:08
 $ cd .git                    
-Commitment Issues/drop-in/.git master                                                                                                                                                                                                                           20:29:21
+                                                                                                                                                                                                                    20:29:21
 $ git show            
 commit e1237df82d2e69f62dd53279abc1c8aeb66f6d64 (HEAD -> master)
 Author: picoCTF <ops@picoctf.com>
@@ -99,10 +97,4 @@ index 96f7309..d552d1e 100644
 @@ -1 +1 @@
 -picoCTF{s@n1t1z3_********}
 +TOP SECRET
-```
-
-## Flag
-
-```
-picoCTF{s@n1t1z3_********}
 ```

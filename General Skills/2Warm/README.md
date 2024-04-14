@@ -13,7 +13,7 @@ Can you convert the number 42 (base 10) to binary (base 2)?
 ## Solve
 
 ```bash
-python3 -c 'print(bin(42))'
+$ python3 -c 'print(bin(42))'
 0b101010
 ```
 

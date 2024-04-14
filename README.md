@@ -17,7 +17,7 @@ picoctf writeup
 | Warmed Up | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Warmed%20Up/README.md) |
 | 2Warm | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/2Warm/README.md) |
 | Commitment Issues | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Commitment%20Issues/README.md) |
-| Time Machine | :white_check_mark: |  | 50 points |  |
+| Time Machine | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Time%20Machine/README.md) |
 | Blame Game |  |  | 75 points |  |
 | Collaborative Development |  |  | 75 points |  |
 | what's a net cat? | :white_check_mark: |  | 100 points |  |
@@ -93,32 +93,32 @@ picoctf writeup
 | Web Gauntlet 2 |  |  | 170 points |  |
 | picobrowser | :white_check_mark: |  | 200 points |  |
 | Client-side-again | :white_check_mark: |  | 200 points |  |
-| Web Gauntlet |  |  |  |  |
-| Some Assembly Required 4 |  |  |  |  |
-| Forbidden Paths | :white_check_mark: |  |  |  |
-| Power Cookie | :white_check_mark: |  |  |  |
-| Roboto Sans | :white_check_mark: |  |  |  |
-| Secrets | :white_check_mark: |  |  |  |
-| SQL Direct | :white_check_mark: |  |  |  |
-| More SQLi |  |  |  |  |
-| notepad |  |  |  |  |
-| Irish-Name-Repo 1 | :white_check_mark: |  |  |  |
-| Web Gauntlet 3 |  |  |  |  |
-| JAuth |  |  |  |  |
-| SQLiLite | :white_check_mark: |  |  |  |
-| Java Code Analysis!?! |  |  |  |  |
-| Trickster |  |  |  |  |
-| Irish-Name-Repo 2 | :white_check_mark: |  |  |  |
-| Irish-Name-Repo 3 |  |  |  |  |
-| JaWT Scratchpad |  |  |  |  |
-| Java Script Kiddie |  |  |  |  |
-| Java Script Kiddie 2 |  |  |  |  |
-| Bithug |  |  |  |  |
-| Live Art |  |  |  |  |
-| noted |  |  |  |  |
-| cancri-sp |  |  |  |  |
-| msfroggenerator2 |  |  |  |  |
-| elements |  |  |  |  |
+| Web Gauntlet |  |  | 200 points |  |
+| Some Assembly Required 4 |  |  | 200 points |  |
+| Forbidden Paths | :white_check_mark: |  | 200 points |  |
+| Power Cookie | :white_check_mark: |  | 200 points |  |
+| Roboto Sans | :white_check_mark: |  | 200 points |  |
+| Secrets | :white_check_mark: |  | 200 points |  |
+| SQL Direct | :white_check_mark: |  | 200 points |  |
+| More SQLi |  |  | 200 points |  |
+| notepad |  |  | 250 points |  |
+| Irish-Name-Repo 1 | :white_check_mark: |  | 300 points |  |
+| Web Gauntlet 3 |  |  | 300 points |  |
+| JAuth |  |  | 300 points |  |
+| SQLiLite | :white_check_mark: |  | 300 points |  |
+| Java Code Analysis!?! |  |  | 300 points |  |
+| Trickster |  |  | 300 points |  |
+| Irish-Name-Repo 2 | :white_check_mark: |  | 300 points |  |
+| Irish-Name-Repo 3 |  |  | 350 points |  |
+| JaWT Scratchpad |  |  | 400 points |  |
+| Java Script Kiddie |  |  | 400 points |  |
+| Java Script Kiddie 2 |  |  | 400 points |  |
+| Bithug |  |  | 500 points |  |
+| Live Art |  |  | 500 points |  |
+| noted |  |  | 500 points |  |
+| cancri-sp |  |  | 500 points |  |
+| msfroggenerator2 |  |  | 500 points |  |
+| elements |  |  | 500 points |  |
 
 
 ## Cryptography
@@ -217,189 +217,189 @@ picoctf writeup
 | ASCII FTW |  |  | 100 points |  |
 | Bit-O-Asm-1 |  |  | 100 points |  |
 | Bit-O-Asm-2 |  |  | 100 points |  |
-| Bit-O-Asm-3 |  |  |  |  |
-| Bit-O-Asm-4 |  |  |  |  |
-| GDB baby step 1 |  |  |  |  |
-| GDB baby step 2 |  |  |  |  |
-| GDB baby step 3 |  |  |  |  |
-| GDB baby step 4 |  |  |  |  |
-| Picker I |  |  |  |  |
-| Picker II |  |  |  |  |
-| Picker III |  |  |  |  |
-| packer |  |  |  |  |
-| gogo |  |  |  |  |
-| ARMssembly 3 |  |  |  |  |
-| Let's get dynamic |  |  |  |  |
-| not crypto |  |  |  |  |
-| Easy as GDB |  |  |  |  |
-| ARMssembly 4 |  |  |  |  |
-| Powershelly |  |  |  |  |
-| asm1 |  |  |  |  |
-| vault-door-3 |  |  |  |  |
-| breadth |  |  |  |  |
-| bloat.py |  |  |  |  |
-| Fresh Java |  |  |  |  |
-| No way out |  |  |  |  |
-| Ready Gladiator 1 |  |  |  |  |
-| FactCheck |  |  |  |  |
-| WinAntiDbg0x100 |  |  |  |  |
-| asm2 |  |  |  |  |
-| vault-door-4 |  |  |  |  |
-| droids0 |  |  |  |  |
-| asm3 |  |  |  |  |
-| vault-door-5 |  |  |  |  |
-| reverse_cipher |  |  |  |  |
-| OTP Implementation |  |  |  |  |
-| Rolling My Own |  |  |  |  |
-| Bbbbloat |  |  |  |  |
-| unpackme |  |  |  |  |
-| Virtual Machine 1 |  |  |  |  |
-| Classic Crackme 0x100 |  |  |  |  |
-| weirdSnake |  |  |  |  |
-| WinAntiDbg0x200 |  |  |  |  |
-| droids1 |  |  |  |  |
-| vault-door-6 |  |  |  |  |
-| riscy business |  |  |  |  |
-| Checkpass |  |  |  |  |
-| Need For Speed |  |  |  |  |
-| droids2 |  |  |  |  |
-| vault-door-7 |  |  |  |  |
-| Keygenme |  |  |  |  |
-| Ready Gladiator 2 |  |  |  |  |
-| WinAntiDbg0x300 |  |  |  |  |
-| vault-door-8 |  |  |  |  |
-| droids3 |  |  |  |  |
-| droids4 |  |  |  |  |
-| Forky |  |  |  |  |
-| MATRIX |  |  |  |  |
-| Wizardlike |  |  |  |  |
+| Bit-O-Asm-3 |  |  | 100 points |  |
+| Bit-O-Asm-4 |  |  | 100 points |  |
+| GDB baby step 1 |  |  | 100 points |  |
+| GDB baby step 2 |  |  | 100 points |  |
+| GDB baby step 3 |  |  | 100 points |  |
+| GDB baby step 4 |  |  | 100 points |  |
+| Picker I |  |  | 100 points |  |
+| Picker II |  |  | 100 points |  |
+| Picker III |  |  | 100 points |  |
+| packer |  |  | 100 points |  |
+| gogo |  |  | 110 points |  |
+| ARMssembly 3 |  |  | 130 points |  |
+| Let's get dynamic |  |  | 150 points |  |
+| not crypto |  |  | 150 points |  |
+| Easy as GDB |  |  | 160 points |  |
+| ARMssembly 4 |  |  | 170 points |  |
+| Powershelly |  |  | 180 points |  |
+| asm1 |  |  | 200 points |  |
+| vault-door-3 |  |  | 200 points |  |
+| breadth |  |  | 200 points |  |
+| bloat.py |  |  | 200 points |  |
+| Fresh Java |  |  | 200 points |  |
+| No way out |  |  | 200 points |  |
+| Ready Gladiator 1 |  |  | 200 points |  |
+| FactCheck |  |  | 200 points |  |
+| WinAntiDbg0x100 |  |  | 200 points |  |
+| asm2 |  |  | 250 points |  |
+| vault-door-4 |  |  | 250 points |  |
+| droids0 |  |  | 300 points |  |
+| asm3 |  |  | 300 points |  |
+| vault-door-5 |  |  | 300 points |  |
+| reverse_cipher |  |  | 300 points |  |
+| OTP Implementation |  |  | 300 points |  |
+| Rolling My Own |  |  | 300 points |  |
+| Bbbbloat |  |  | 300 points |  |
+| unpackme |  |  | 300 points |  |
+| Virtual Machine 1 |  |  | 300 points |  |
+| Classic Crackme 0x100 |  |  | 300 points |  |
+| weirdSnake |  |  | 300 points |  |
+| WinAntiDbg0x200 |  |  | 300 points |  |
+| droids1 |  |  | 350 points |  |
+| vault-door-6 |  |  | 350 points |  |
+| riscy business |  |  | 350 points |  |
+| Checkpass |  |  | 375 points |  |
+| Need For Speed |  |  | 400 points |  |
+| droids2 |  |  | 400 points |  |
+| vault-door-7 |  |  | 400 points |  |
+| Keygenme |  |  | 400 points |  |
+| Ready Gladiator 2 |  |  | 400 points |  |
+| WinAntiDbg0x300 |  |  | 400 points |  |
+| vault-door-8 |  |  | 450 points |  |
+| droids3 |  |  | 450 points |  |
+| droids4 |  |  | 500 points |  |
+| Forky |  |  | 500 points |  |
+| MATRIX |  |  | 500 points |  |
+| Wizardlike |  |  | 500 points |  |
 
 ## Forensics
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| information | :white_check_mark: |  |  |  |
-| Matryoshka doll | :white_check_mark: |  |  |  |
-| tunn3l v1s10n |  |  |  |  |
-| Glory of the Garden | :white_check_mark: |  |  |  |
-| Wireshark doo dooo do doo... |  |  |  |  |
-| Scan Surprise |  |  |  |  |
-| Verify |  |  |  |  |
-| MacroHard WeakEdge | :white_check_mark: |  |  |  |
-| Trivial Flag Transfer Protocol |  |  |  |  |
-| Wireshark twoo twooo two twoo... |  |  |  |  |
-| advanced-potion-making |  |  |  |  |
-| Enhance! |  |  |  |  |
-| File types |  |  |  |  |
-| Lookey here | :white_check_mark: |  |  |  |
-| Packets Primer | :white_check_mark: |  |  |  |
-| Redaction gone wrong | :white_check_mark: |  |  |  |
-| Sleuthkit Intro |  |  |  |  |
-| hideme |  |  |  |  |
-| PcapPoisoning |  |  |  |  |
-| who is it |  |  |  |  |
-| CanYouSee |  |  |  |  |
-| Secret of the Polyglot |  |  |  |  |
-| Disk, disk, sleuth! |  |  |  |  |
-| Milkslap |  |  |  |  |
-| Disk, disk, sleuth! II |  |  |  |  |
-| So Meta | :white_check_mark: |  |  |  |
-| shark on wire 1 |  |  |  |  |
-| extensions |  |  |  |  |
-| What Lies Within |  |  |  |  |
-| Pitter, Patter, Platters |  |  |  |  |
-| scrambled-bytes |  |  |  |  |
-| WPA-ing Out |  |  |  |  |
-| Sleuthkit Apprentice |  |  |  |  |
-| FindAndOpen |  |  |  |  |
-| MSB |  |  |  |  |
-| Mob psycho |  |  |  |  |
-| m00nwalk |  |  |  |  |
-| WhitePages |  |  |  |  |
-| c0rrupt |  |  |  |  |
-| like1000 |  |  |  |  |
-| Surfing the Waves |  |  |  |  |
-| m00nwalk2 |  |  |  |  |
-| Investigative Reversing 0 |  |  |  |  |
-| shark on wire 2 |  |  |  |  |
-| Very very very Hidden |  |  |  |  |
-| Eavesdrop |  |  |  |  |
-| Operation Oni |  |  |  |  |
-| St3g0 |  |  |  |  |
-| Invisible WORDs |  |  |  |  |
-| endianness-v2 |  |  |  |  |
-| Blast from the past |  |  |  |  |
-| Investigative Reversing 2 |  |  |  |  |
-| Investigative Reversing 1 |  |  |  |  |
-| WebNet0 |  |  |  |  |
-| Investigative Reversing 4 |  |  |  |  |
-| Investigative Reversing 3 |  |  |  |  |
-| Operation Orchid |  |  |  |  |
-| SideChannel |  |  |  |  |
-| Torrent Analyze |  |  |  |  |
-| Dear Diary |  |  |  |  |
-| WebNet1 |  |  |  |  |
-| investigation_encoded_1 |  |  |  |  |
-| investigation_encoded_2 |  |  |  |  |
-| B1g_Mac |  |  |  |  |
-| UnforgottenBits |  |  |  |  |
+| information | :white_check_mark: |  | 10 points |  |
+| Matryoshka doll | :white_check_mark: |  | 30 points |  |
+| tunn3l v1s10n |  |  | 40 points |  |
+| Glory of the Garden | :white_check_mark: |  | 50 points |  |
+| Wireshark doo dooo do doo... |  |  | 50 points |  |
+| Scan Surprise |  |  | 50 points |  |
+| Verify |  |  | 50 points |  |
+| MacroHard WeakEdge | :white_check_mark: |  | 60 points |  |
+| Trivial Flag Transfer Protocol |  |  | 90 points |  |
+| Wireshark twoo twooo two twoo... |  |  | 100 points |  |
+| advanced-potion-making |  |  | 100 points |  |
+| Enhance! |  |  | 100 points |  |
+| File types |  |  | 100 points |  |
+| Lookey here | :white_check_mark: |  | 100 points |  |
+| Packets Primer | :white_check_mark: |  | 100 points |  |
+| Redaction gone wrong | :white_check_mark: |  | 100 points |  |
+| Sleuthkit Intro |  |  | 100 points |  |
+| hideme |  |  | 100 points |  |
+| PcapPoisoning |  |  | 100 points |  |
+| who is it |  |  | 100 points |  |
+| CanYouSee |  |  | 100 points |  |
+| Secret of the Polyglot |  |  | 100 points |  |
+| Disk, disk, sleuth! |  |  | 110 points |  |
+| Milkslap |  |  | 120 points |  |
+| Disk, disk, sleuth! II |  |  | 130 points |  |
+| So Meta | :white_check_mark: |  | 150 points |  |
+| shark on wire 1 |  |  | 150 points |  |
+| extensions |  |  | 150 points |  |
+| What Lies Within |  |  | 150 points |  |
+| Pitter, Patter, Platters |  |  | 200 points |  |
+| scrambled-bytes |  |  | 200 points |  |
+| WPA-ing Out |  |  | 200 points |  |
+| Sleuthkit Apprentice |  |  | 200 points |  |
+| FindAndOpen |  |  | 200 points |  |
+| MSB |  |  | 200 points |  |
+| Mob psycho |  |  | 200 points |  |
+| m00nwalk |  |  | 250 points |  |
+| WhitePages |  |  | 250 points |  |
+| c0rrupt |  |  | 250 points |  |
+| like1000 |  |  | 250 points |  |
+| Surfing the Waves |  |  | 250 points |  |
+| m00nwalk2 |  |  | 300 points |  |
+| Investigative Reversing 0 |  |  | 300 points |  |
+| shark on wire 2 |  |  | 300 points |  |
+| Very very very Hidden |  |  | 300 points |  |
+| Eavesdrop |  |  | 300 points |  |
+| Operation Oni |  |  | 300 points |  |
+| St3g0 |  |  | 300 points |  |
+| Invisible WORDs |  |  | 300 points |  |
+| endianness-v2 |  |  | 300 points |  |
+| Blast from the past |  |  | 300 points |  |
+| Investigative Reversing 2 |  |  | 350 points |  |
+| Investigative Reversing 1 |  |  | 350 points |  |
+| WebNet0 |  |  | 350 points |  |
+| Investigative Reversing 4 |  |  | 400 points |  |
+| Investigative Reversing 3 |  |  | 400 points |  |
+| Operation Orchid |  |  | 400 points |  |
+| SideChannel |  |  | 400 points |  |
+| Torrent Analyze |  |  | 400 points |  |
+| Dear Diary |  |  | 400 points |  |
+| WebNet1 |  |  | 400 points |  |
+| investigation_encoded_1 |  |  | 450 points |  |
+| investigation_encoded_2 |  |  | 500 points |  |
+| B1g_Mac |  |  | 500 points |  |
+| UnforgottenBits |  |  | 500 points |  |
 
 ## Binary Exploitation
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Stonks |  |  |  |  |
-| format string 0 |  |  |  |  |
-| heap 0 |  |  |  |  |
-| Cache Me Outside |  |  |  |  |
-| Here's a LIBC |  |  |  |  |
-| Unsubscriptions Are Free |  |  |  |  |
-| basic-file-exploit |  |  |  |  |
-| buffer overflow 0 |  |  |  |  |
-| CVE-XXXX-XXXX |  |  |  |  |
-| babygame01 |  |  |  |  |
-| two-sum |  |  |  |  |
-| Local Target |  |  |  |  |
-| Picker IV |  |  |  |  |
-| format string 1 |  |  |  |  |
-| heap 1 |  |  |  |  |
-| clutter-overflow |  |  |  |  |
-| filtered-shellcode |  |  |  |  |
-| Kit Engine |  |  |  |  |
-| buffer overflow 1 |  |  |  |  |
-| RPS |  |  |  |  |
-| x-sixty-what |  |  |  |  |
-| babygame02 |  |  |  |  |
-| hijacking |  |  |  |  |
-| tic-tac |  |  |  |  |
-| VNE |  |  |  |  |
-| heap 2 |  |  |  |  |
-| heap 3 |  |  |  |  |
-| format string 2 |  |  |  |  |
-| Guessing Game 1 |  |  |  |  |
-| Stonk Market |  |  |  |  |
-| fermat-strings |  |  |  |  |
-| Guessing Game 2 |  |  |  |  |
-| buffer overflow 2 |  |  |  |  |
-| buffer overflow 3 |  |  |  |  |
-| flag leak |  |  |  |  |
-| ropfu |  |  |  |  |
-| wine |  |  |  |  |
-| Horsetrack |  |  |  |  |
-| format string 3 |  |  |  |  |
-| seed-sPRiNG |  |  |  |  |
-| Download Horsepower |  |  |  |  |
-| SaaS |  |  |  |  |
-| The Office |  |  |  |  |
-| homework |  |  |  |  |
-| function overwrite |  |  |  |  |
-| stack cache |  |  |  |  |
-| babygame03 |  |  |  |  |
-| Turboflan |  |  |  |  |
-| lockdown-horses |  |  |  |  |
-| sice_cream |  |  |  |  |
-| zero_to_hero |  |  |  |  |
-| Bizz Fuzz |  |  |  |  |
-| vr-school |  |  |  |  |
-| solfire |  |  |  |  |
-| high frequency troubles |  |  |  |  |
+| Stonks | :white_check_mark: |  | 20 points |  |
+| format string 0 |  |  | 50 points |  |
+| heap 0 |  |  | 50 points |  |
+| Cache Me Outside |  |  | 70 points |  |
+| Here's a LIBC |  |  | 90 points |  |
+| Unsubscriptions Are Free |  |  | 100 points |  |
+| basic-file-exploit |  |  | 100 points |  |
+| buffer overflow 0 | :white_check_mark: |  | 100 points |  |
+| CVE-XXXX-XXXX |  |  | 100 points |  |
+| babygame01 |  |  | 100 points |  |
+| two-sum |  |  | 100 points |  |
+| Local Target |  |  | 100 points |  |
+| Picker IV |  |  | 100 points |  |
+| format string 1 |  |  | 100 points |  |
+| heap 1 |  |  | 100 points |  |
+| clutter-overflow |  |  | 150 points |  |
+| filtered-shellcode |  |  | 160 points |  |
+| Kit Engine |  |  | 200 points |  |
+| buffer overflow 1 |  |  | 200 points |  |
+| RPS |  |  | 200 points |  |
+| x-sixty-what |  |  | 200 points |  |
+| babygame02 |  |  | 200 points |  |
+| hijacking |  |  | 200 points |  |
+| tic-tac |  |  | 200 points |  |
+| VNE |  |  | 200 points |  |
+| heap 2 |  |  | 200 points |  |
+| heap 3 |  |  | 200 points |  |
+| format string 2 |  |  | 200 points |  |
+| Guessing Game 1 |  |  | 250 points |  |
+| Stonk Market |  |  | 250 points |  |
+| fermat-strings |  |  | 250 points |  |
+| Guessing Game 2 |  |  | 300 points |  |
+| buffer overflow 2 |  |  | 300 points |  |
+| buffer overflow 3 |  |  | 300 points |  |
+| flag leak |  |  | 300 points |  |
+| ropfu |  |  | 300 points |  |
+| wine |  |  | 300 points |  |
+| Horsetrack |  |  | 300 points |  |
+| format string 3 |  |  | 300 points |  |
+| seed-sPRiNG |  |  | 350 points |  |
+| Download Horsepower |  |  | 350 points |  |
+| SaaS |  |  | 350 points |  |
+| The Office |  |  | 400 points |  |
+| homework |  |  | 400 points |  |
+| function overwrite |  |  | 400 points |  |
+| stack cache |  |  | 400 points |  |
+| babygame03 |  |  | 400 points |  |
+| Turboflan |  |  | 450 points |  |
+| lockdown-horses |  |  | 450 points |  |
+| sice_cream |  |  | 500 points |  |
+| zero_to_hero |  |  | 500 points |  |
+| Bizz Fuzz |  |  | 500 points |  |
+| vr-school |  |  | 500 points |  |
+| solfire |  |  | 500 points |  |
+| high frequency troubles |  |  | 500 points |  |
