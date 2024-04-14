@@ -342,7 +342,7 @@ picoctf writeup
 | investigation_encoded_1 |  |  | 450 points | [Writeup Link](./Forensics/investigation_encoded_1) |
 | investigation_encoded_2 |  |  | 500 points | [Writeup Link](./Forensics/investigation_encoded_2) |
 | B1g_Mac |  |  | 500 points | [Writeup Link](./Forensics/B1g_Mac) |
-| UnforgottenBits |  |  | 500 points | √(./Forensics/UnforgottenBits) |
+| UnforgottenBits |  |  | 500 points | [Writeup Link](./Forensics/UnforgottenBits) |
 
 ## Binary Exploitation
 
@@ -400,7 +400,6 @@ picoctf writeup
 | sice_cream |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/sice_cream) |
 | zero_to_hero |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/zero_to_hero) |
 | Bizz Fuzz |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/Bizz%20Fuzz) |
-| vr-school |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/vr-school) |
-| solfire |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/solfire) |
-| high frequency troubles |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/high%20frequency%20troubles) |
-
+| vr-school |  |  | 500 points |  |
+| solfire |  |  | 500 points |  |
+| high frequency troubles |  |  | 500 points |  |
