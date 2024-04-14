@@ -62,131 +62,131 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| GET aHEAD | :white_check_mark: | :white_check_mark: | 20 points |  |
-| Cookies | :white_check_mark: |  | 40 points |  |
-| Insp3ct0r | :white_check_mark: |  | 50 points |  |
-| Scavenger Hunt | :white_check_mark: |  | 50 points |  |
-| Bookmarklet | :white_check_mark: |  | 50 points |  |
-| WebDecode | :white_check_mark: |  | 50 points |  |
-| Some Assembly Required 1 | :white_check_mark: |  | 70 points |  |
-| More Cookies | :white_check_mark: |  | 90 points |  |
-| where are the robots | :white_check_mark: |  | 100 points |  |
-| logon | :white_check_mark: |  | 100 points |  |
-| dont-use-client-side | :white_check_mark: |  | 100 points |  |
-| It is my Birthday |  |  | 100 points |  |
-| Who are you? | :white_check_mark: |  | 100 points |  |
-| login | :white_check_mark: |  | 100 points |  |
-| Includes | :white_check_mark: |  | 100 points |  |
-| Inspect HTML | :white_check_mark: |  | 100 points |  |
-| Local Authority | :white_check_mark: |  | 100 points |  |
-| Search source | :white_check_mark: |  | 100 points |  |
-| findme | :white_check_mark: |  | 100 points |  |
-| MatchTheRegex | :white_check_mark: |  | 100 points |  |
-| SOAP |  |  | 100 points |  |
-| IntroToBurp | :white_check_mark: |  | 100 points |  |
-| Unminify | :white_check_mark: |  | 100 points |  |
-| Some Assembly Required 2 |  |  | 110 points |  |
-| Super Serial | :white_check_mark: |  | 130 points |  |
-| Most Cookies | :white_check_mark: |  | 150 points |  |
-| caas |  |  | 150 points |  |
-| Some Assembly Required 3 |  |  | 160 points |  |
-| Web Gauntlet 2 |  |  | 170 points |  |
-| picobrowser | :white_check_mark: |  | 200 points |  |
-| Client-side-again | :white_check_mark: |  | 200 points |  |
-| Web Gauntlet |  |  | 200 points |  |
-| Some Assembly Required 4 |  |  | 200 points |  |
-| Forbidden Paths | :white_check_mark: |  | 200 points |  |
-| Power Cookie | :white_check_mark: |  | 200 points |  |
-| Roboto Sans | :white_check_mark: |  | 200 points |  |
-| Secrets | :white_check_mark: |  | 200 points |  |
-| SQL Direct | :white_check_mark: |  | 200 points |  |
-| More SQLi |  |  | 200 points |  |
-| notepad |  |  | 250 points |  |
-| Irish-Name-Repo 1 | :white_check_mark: |  | 300 points |  |
-| Web Gauntlet 3 |  |  | 300 points |  |
-| JAuth |  |  | 300 points |  |
-| SQLiLite | :white_check_mark: |  | 300 points |  |
-| Java Code Analysis!?! |  |  | 300 points |  |
-| Trickster |  |  | 300 points |  |
-| Irish-Name-Repo 2 | :white_check_mark: |  | 300 points |  |
-| Irish-Name-Repo 3 |  |  | 350 points |  |
-| JaWT Scratchpad |  |  | 400 points |  |
-| Java Script Kiddie |  |  | 400 points |  |
-| Java Script Kiddie 2 |  |  | 400 points |  |
-| Bithug |  |  | 500 points |  |
-| Live Art |  |  | 500 points |  |
-| noted |  |  | 500 points |  |
-| cancri-sp |  |  | 500 points |  |
-| msfroggenerator2 |  |  | 500 points |  |
-| elements |  |  | 500 points |  |
+| GET aHEAD | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./Web%20Exploitation/GET%20aHEAD) |
+| Cookies | :white_check_mark: |  | 40 points | [Writeup Link](./Web%20Exploitation/Cookies) |
+| Insp3ct0r | :white_check_mark: |  | 50 points | [Writeup Link](./Web%20Exploitation/Insp3ct0r) |
+| Scavenger Hunt | :white_check_mark: |  | 50 points | [Writeup Link](./Web%20Exploitation/Scavenger%20Hunt) |
+| Bookmarklet | :white_check_mark: |  | 50 points | [Writeup Link](./Web%20Exploitation/Bookmarklet) |
+| WebDecode | :white_check_mark: |  | 50 points | [Writeup Link](./Web%20Exploitation/WebDecode) |
+| Some Assembly Required 1 | :white_check_mark: |  | 70 points | [Writeup Link](./Web%20Exploitation/Some%20Assembly%20Required%201) |
+| More Cookies | :white_check_mark: |  | 90 points | [Writeup Link](./Web%20Exploitation/More%20Cookies) |
+| where are the robots | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/where%20are%20the%20robots) |
+| logon | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/logon) |
+| dont-use-client-side | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/dont-use-client-side) |
+| It is my Birthday |  |  | 100 points | [Writeup Link](./Web%20Exploitation/It%20is%20my%20Birthday) |
+| Who are you? | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Who%20are%20you) |
+| login | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/login) |
+| Includes | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Includes) |
+| Inspect HTML | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Inspect%20HTML) |
+| Local Authority | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Local%20Authority) |
+| Search source | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Search%20source) |
+| findme | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/findme) |
+| MatchTheRegex | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/MatchTheRegex) |
+| SOAP |  |  | 100 points | [Writeup Link](./Web%20Exploitation/SOAP) |
+| IntroToBurp | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/IntroToBurp) |
+| Unminify | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Unminify) |
+| Some Assembly Required 2 |  |  | 110 points | [Writeup Link](./Web%20Exploitation/Some%20Assembly%20Required%202) |
+| Super Serial | :white_check_mark: |  | 130 points | [Writeup Link](./Web%20Exploitation/Super%20Serial) |
+| Most Cookies | :white_check_mark: |  | 150 points | [Writeup Link](./Web%20Exploitation/Most%20Cookies) |
+| caas |  |  | 150 points | [Writeup Link](./Web%20Exploitation/caas) |
+| Some Assembly Required 3 |  |  | 160 points | [Writeup Link](./Web%20Exploitation/Some%20Assembly%20Required%203) |
+| Web Gauntlet 2 |  |  | 170 points | [Writeup Link](./Web%20Exploitation/Web%20Gauntlet%202) |
+| picobrowser | :white_check_mark: |  | 200 points | [Writeup Link](./Web%20Exploitation/picobrowser) |
+| Client-side-again | :white_check_mark: |  | 200 points | [Writeup Link](./Web%20Exploitation/Client-side-again) |
+| Web Gauntlet |  |  | 200 points | [Writeup Link](./Web%20Exploitation/Web%20Gauntlet) |
+| Some Assembly Required 4 |  |  | 200 points | [Writeup Link](./Web%20Exploitation/Some%20Assembly%20Required%204) |
+| Forbidden Paths | :white_check_mark: |  | 200 points | [Writeup Link](./Web%20Exploitation/Forbidden%20Paths) |
+| Power Cookie | :white_check_mark: |  | 200 points | [Writeup Link](./Web%20Exploitation/Power%20Cookie) |
+| Roboto Sans | :white_check_mark: |  | 200 points | [Writeup Link](./Web%20Exploitation/Roboto%20Sans) |
+| Secrets | :white_check_mark: |  | 200 points | [Writeup Link](./Web%20Exploitation/Secrets) |
+| SQL Direct | :white_check_mark: |  | 200 points | [Writeup Link](./Web%20Exploitation/SQL%20Direct) |
+| More SQLi |  |  | 200 points | [Writeup Link](./Web%20Exploitation/More%20SQLi) |
+| notepad |  |  | 250 points | [Writeup Link](./Web%20Exploitation/notepad) |
+| Irish-Name-Repo 1 | :white_check_mark: |  | 300 points | [Writeup Link](./Web%20Exploitation/Irish-Name-Repo%201) |
+| Web Gauntlet 3 |  |  | 300 points | [Writeup Link](./Web%20Exploitation/Web%20Gauntlet%203) |
+| JAuth |  |  | 300 points | [Writeup Link](./Web%20Exploitation/JAuth) |
+| SQLiLite | :white_check_mark: |  | 300 points | [Writeup Link](./Web%20Exploitation/SQLiLite) |
+| Java Code Analysis!?! |  |  | 300 points | [Writeup Link](./Web%20Exploitation/Java%20Code%20Analysis%20!?!) |
+| Trickster |  |  | 300 points | [Writeup Link](./Web%20Exploitation/Trickster) |
+| Irish-Name-Repo 2 | :white_check_mark: |  | 300 points | [Writeup Link](./Web%20Exploitation/Irish-Name-Repo%202) |
+| Irish-Name-Repo 3 |  |  | 350 points | [Writeup Link](./Web%20Exploitation/Irish-Name-Repo%203) |
+| JaWT Scratchpad |  |  | 400 points | [Writeup Link](./Web%20Exploitation/JaWT%20Scratchpad) |
+| Java Script Kiddie |  |  | 400 points | [Writeup Link](./Web%20Exploitation/Java%20Script%20Kiddie) |
+| Java Script Kiddie 2 |  |  | 400 points | [Writeup Link](./Web%20Exploitation/Java%20Script%20Kiddie%202) |
+| Bithug |  |  | 500 points | [Writeup Link](./Web%20Exploitation/Bithug) |
+| Live Art |  |  | 500 points | [Writeup Link](./Web%20Exploitation/Live%20Art) |
+| noted |  |  | 500 points | [Writeup Link](./Web%20Exploitation/noted) |
+| cancri-sp |  |  | 500 points | [Writeup Link](./Web%20Exploitation/cancri-sp) |
+| msfroggenerator2 |  |  | 500 points | [Writeup Link](./Web%20Exploitation/msfroggenerator2) |
+| elements |  |  | 500 points | [Writeup Link](./Web%20Exploitation/elements) |
 
 
 ## Cryptography
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Mod 26 | :white_check_mark: |  | 10 points |  |
-| Mind your Ps and Qs |  |  | 20 points |  |
-| Easy Peasy |  |  | 40 points |  |
-| The Numbers | :white_check_mark: |  | 50 points |  |
-| interencdec |  |  | 50 points |  |
-| New Caesar | :white_check_mark: |  | 60 points |  |
-| Mini RSA |  |  | 70 points |  |
-| Dachshund Attacks |  |  | 80 points |  |
-| No Padding, No Problem |  |  | 90 points |  |
-| Easy1 | :white_check_mark: |  | 100 points |  |
-| 13 | :white_check_mark: |  | 100 points |  |
-| caesar | :white_check_mark: |  | 100 points |  |
-| Pixelated |  |  | 100 points |  |
-| spelling-quiz |  |  | 100 points |  |
-| basic-mod1 | :white_check_mark: |  | 100 points |  |
-| basic-mod2 |  |  | 100 points |  |
-| credstuff |  |  | 100 points |  |
-| morse-code | :white_check_mark: |  | 100 points |  |
-| rail-fence |  |  | 100 points |  |
-| substitution0 |  |  | 100 points |  |
-| substitution1 |  |  | 100 points |  |
-| substitution2 |  |  | 100 points |  |
-| transposition-trial |  |  | 100 points |  |
-| Vigenere | :white_check_mark: |  | 100 points |  |
-| HideToSee |  |  | 100 points |  |
-| ReadMyCert |  |  | 100 points |  |
-| rotation | :white_check_mark: |  | 100 points |  |
-| Custom encryption |  |  | 100 points |  |
-| Play Nice |  |  | 110 points |  |
-| Double DES |  |  | 120 points |  |
-| Compress and Attack |  |  | 130 points |  |
-| Scrambled: RSA |  |  | 140 points |  |
-| XtraORdinary |  |  | 150 points |  |
-| triple-secure |  |  | 150 points |  |
-| la cifra de |  |  | 200 points |  |
-| Tapping |  |  | 200 points |  |
-| Flags |  |  | 200 points |  |
-| Mr-Worldwide |  |  | 200 points |  |
-| rsa-pop-quiz |  |  | 200 points |  |
-| PowerAnalysis: Warmup |  |  | 200 points |  |
-| C3 |  |  | 200 points |  |
-| college-rowing-team |  |  | 250 points |  |
-| waves over lambda |  |  | 300 points |  |
-| miniRSA |  |  | 300 points |  |
-| It's Not My Fault 1 |  |  | 300 points |  |
-| New Vignere |  |  | 300 points |  |
-| Very Smooth |  |  | 300 points |  |
-| rsa_oracle |  |  | 300 points |  |
-| corrupt-key-1 |  |  | 350 points |  |
-| b00tl3gRSA2 |  |  | 400 points |  |
-| AES-ABC |  |  | 400 points |  |
-| Sequences |  |  | 400 points |  |
-| Sum-O-Primes |  |  | 400 points |  |
-| PowerAnalysis: Part 1 |  |  | 400 points |  |
-| SRA |  |  | 400 points |  |
-| b00tl3gRSA3 |  |  | 450 points |  |
-| john_pollard |  |  | 500 points |  |
-| Clouds |  |  | 500 points |  |
-| corrupt-key-2 |  |  | 500 points |  |
-| NSA Backdoor |  |  | 500 points |  |
-| PowerAnalysis: Part 2 |  |  | 500 points |  |
-| flag_printer |  |  | 500 points |  |
+| Mod 26 | :white_check_mark: |  | 10 points | [Writeup Link](./Cryptography/Mod%2026) |
+| Mind your Ps and Qs |  |  | 20 points | [Writeup Link](./Cryptography/Mind%20your%20Ps%20and%20Qs) |
+| Easy Peasy |  |  | 40 points | [Writeup Link](./Cryptography/Easy%20Peasy) |
+| The Numbers | :white_check_mark: |  | 50 points | [Writeup Link](./Cryptography/The%20Numbers) |
+| interencdec |  |  | 50 points | [Writeup Link](./Cryptography/interencdec) |
+| New Caesar | :white_check_mark: |  | 60 points | [Writeup Link](./Cryptography/New%20Caesar) |
+| Mini RSA |  |  | 70 points | [Writeup Link](./Cryptography/Mini%20RSA) |
+| Dachshund Attacks |  |  | 80 points | [Writeup Link](./Cryptography/Dachshund%20Attacks) |
+| No Padding, No Problem |  |  | 90 points | [Writeup Link](./Cryptography/No%20Padding%20No%20Problem) |
+| Easy1 | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/Easy1) |
+| 13 | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/13) |
+| caesar | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/caesar) |
+| Pixelated |  |  | 100 points | [Writeup Link](./Cryptography/Pixelated) |
+| spelling-quiz |  |  | 100 points | [Writeup Link](./Cryptography/spelling-quiz) |
+| basic-mod1 | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/basic-mod1) |
+| basic-mod2 |  |  | 100 points | [Writeup Link](./Cryptography/basic-mod2) |
+| credstuff |  |  | 100 points | [Writeup Link](./Cryptography/credstuff) |
+| morse-code | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/morse-code) |
+| rail-fence |  |  | 100 points | [Writeup Link](./Cryptography/rail-fence) |
+| substitution0 |  |  | 100 points | [Writeup Link](./Cryptography/substitution0) |
+| substitution1 |  |  | 100 points | [Writeup Link](./Cryptography/substitution1) |
+| substitution2 |  |  | 100 points | [Writeup Link](./Cryptography/substitution2) |
+| transposition-trial |  |  | 100 points | [Writeup Link](./Cryptography/transposition-trial) |
+| Vigenere | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/Vigenere) |
+| HideToSee |  |  | 100 points | [Writeup Link](./Cryptography/HideToSee) |
+| ReadMyCert |  |  | 100 points | [Writeup Link](./Cryptography/ReadMyCert) |
+| rotation | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/rotation) |
+| Custom encryption |  |  | 100 points | [Writeup Link](./Cryptography/Custom%20encryption) |
+| Play Nice |  |  | 110 points | [Writeup Link](./Cryptography/Play%20Nice) |
+| Double DES |  |  | 120 points | [Writeup Link](./Cryptography/Double%20DES) |
+| Compress and Attack |  |  | 130 points | [Writeup Link](./Cryptography/Compress%20and%20Attack) |
+| Scrambled: RSA |  |  | 140 points | [Writeup Link](./Cryptography/Scrambled%3A%20RSA) |
+| XtraORdinary |  |  | 150 points | [Writeup Link](./Cryptography/XtraORdinary) |
+| triple-secure |  |  | 150 points | [Writeup Link](./Cryptography/triple-secure) |
+| la cifra de |  |  | 200 points | [Writeup Link](./Cryptography/la%20cifra%20de) |
+| Tapping |  |  | 200 points | [Writeup Link](./Cryptography/Tapping) |
+| Flags |  |  | 200 points | [Writeup Link](./Cryptography/Flags) |
+| Mr-Worldwide |  |  | 200 points | [Writeup Link](./Cryptography/Mr-Worldwide) |
+| rsa-pop-quiz |  |  | 200 points | [Writeup Link](./Cryptography/rsa-pop-quiz) |
+| PowerAnalysis: Warmup |  |  | 200 points | [Writeup Link](./Cryptography/PowerAnalysis%3A%20Warmup) |
+| C3 |  |  | 200 points | [Writeup Link](./Cryptography/C3) |
+| college-rowing-team |  |  | 250 points | [Writeup Link](./Cryptography/college-rowing-team) |
+| waves over lambda |  |  | 300 points | [Writeup Link](./Cryptography/waves%20over%20lambda) |
+| miniRSA |  |  | 300 points | [Writeup Link](./Cryptography/miniRSA) |
+| It's Not My Fault 1 |  |  | 300 points | [Writeup Link](./Cryptography/It's%20Not%20My%20Fault%201) |
+| New Vignere |  |  | 300 points | [Writeup Link](./Cryptography/New%20Vignere) |
+| Very Smooth |  |  | 300 points | [Writeup Link](./Cryptography/Very%20Smooth) |
+| rsa_oracle |  |  | 300 points | [Writeup Link](./Cryptography/rsa_oracle) |
+| corrupt-key-1 |  |  | 350 points | [Writeup Link](./Cryptography/corrupt-key-1) |
+| b00tl3gRSA2 |  |  | 400 points | [Writeup Link](./Cryptography/b00tl3gRSA2) |
+| AES-ABC |  |  | 400 points | [Writeup Link](./Cryptography/AES-ABC) |
+| Sequences |  |  | 400 points | [Writeup Link](./Cryptography/Sequences) |
+| Sum-O-Primes |  |  | 400 points | [Writeup Link](./Cryptography/Sum-O-Primes) |
+| PowerAnalysis: Part 1 |  |  | 400 points | [Writeup Link](./Cryptography/PowerAnalysis%3A%20Part%201) |
+| SRA |  |  | 400 points | [Writeup Link](./Cryptography/SRA) |
+| b00tl3gRSA3 |  |  | 450 points | [Writeup Link](./Cryptography/b00tl3gRSA3) |
+| john_pollard |  |  | 500 points | [Writeup Link](./Cryptography/john_pollard) |
+| Clouds |  |  | 500 points | [Writeup Link](./Cryptography/Clouds) |
+| corrupt-key-2 |  |  | 500 points | [Writeup Link](./Cryptography/corrupt-key-2) |
+| NSA Backdoor |  |  | 500 points | [Writeup Link](./Cryptography/NSA%20Backdoor) |
+| PowerAnalysis: Part 2 |  |  | 500 points | [Writeup Link](./Cryptography/PowerAnalysis%3A%20Part%202) |
+| flag_printer |  |  | 500 points | [Writeup Link](./Cryptography/flag_printer) |
 
 ## Reverse Engineering
 
