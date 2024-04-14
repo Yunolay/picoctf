@@ -192,31 +192,31 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Transformation | :white_check_mark: |  |  |  |
-| keygenme-py | :white_check_mark: |  |  |  |
-| crackme-py | :white_check_mark: |  |  |  |
-| ARMssembly 0 |  |  |  |  |
-| vault-door-training | :white_check_mark: |  |  |  |
-| speeds and feeds | :white_check_mark: |  |  |  |
-| Shop | :white_check_mark: |  |  |  |
-| ARMssembly 1 |  |  |  |  |
-| ARMssembly 2 |  |  |  |  |
-| vault-door-1 | :white_check_mark: |  |  |  |
-| Hurry up! Wait! |  |  |  |  |
-| file-run1 | :white_check_mark: |  |  |  |
-| file-run2 | :white_check_mark: |  |  |  |
-| GDB Test Drive | :white_check_mark: |  |  |  |
-| patchme.py | :white_check_mark: |  |  |  |
-| Safe Opener | :white_check_mark: |  |  |  |
-| unpackme.py | :white_check_mark: |  |  |  |
-| Ready Gladiator 0 |  |  |  |  |
-| Reverse | :white_check_mark: |  |  |  |
-| Safe Opener 2 | :white_check_mark∂: |  |  |  |
-| timer |  |  |  |  |
-| Virtual Machine 0 |  |  |  |  |
-| ASCII FTW |  |  |  |  |
-| Bit-O-Asm-1 |  |  |  |  |
-| Bit-O-Asm-2 |  |  |  |  |
+| Transformation | :white_check_mark: |  | 20 points |  |
+| keygenme-py | :white_check_mark: |  | 30 points |  |
+| crackme-py | :white_check_mark: |  | 30 points |  |
+| ARMssembly 0 |  |  | 40 points |  |
+| vault-door-training | :white_check_mark: |  | 50 points |  |
+| speeds and feeds | :white_check_mark: |  | 50 points |  |
+| Shop | :white_check_mark: |  | 50 points |  |
+| ARMssembly 1 |  |  | 70 points |  |
+| ARMssembly 2 |  |  | 90 points |  |
+| vault-door-1 | :white_check_mark: |  | 100 points |  |
+| Hurry up! Wait! |  |  | 100 points |  |
+| file-run1 | :white_check_mark: |  | 100 points |  |
+| file-run2 | :white_check_mark: |  | 100 points |  |
+| GDB Test Drive | :white_check_mark: |  | 100 points |  |
+| patchme.py | :white_check_mark: |  | 100 points |  |
+| Safe Opener | :white_check_mark: |  | 100 points |  |
+| unpackme.py | :white_check_mark: |  | 100 points |  |
+| Ready Gladiator 0 |  |  | 100 points |  |
+| Reverse | :white_check_mark: |  | 100 points |  |
+| Safe Opener 2 | :white_check_mark: |  | 100 points |  |
+| timer |  |  | 100 points |  |
+| Virtual Machine 0 |  |  | 100 points |  |
+| ASCII FTW |  |  | 100 points |  |
+| Bit-O-Asm-1 |  |  | 100 points |  |
+| Bit-O-Asm-2 |  |  | 100 points |  |
 | Bit-O-Asm-3 |  |  |  |  |
 | Bit-O-Asm-4 |  |  |  |  |
 | GDB baby step 1 |  |  |  |  |
@@ -278,59 +278,128 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
+| information | :white_check_mark: |  |  |  |
+| Matryoshka doll | :white_check_mark: |  |  |  |
+| tunn3l v1s10n |  |  |  |  |
+| Glory of the Garden | :white_check_mark: |  |  |  |
+| Wireshark doo dooo do doo... |  |  |  |  |
+| Scan Surprise |  |  |  |  |
+| Verify |  |  |  |  |
+| MacroHard WeakEdge | :white_check_mark: |  |  |  |
+| Trivial Flag Transfer Protocol |  |  |  |  |
+| Wireshark twoo twooo two twoo... |  |  |  |  |
+| advanced-potion-making |  |  |  |  |
+| Enhance! |  |  |  |  |
+| File types |  |  |  |  |
+| Lookey here | :white_check_mark: |  |  |  |
+| Packets Primer | :white_check_mark: |  |  |  |
+| Redaction gone wrong | :white_check_mark: |  |  |  |
+| Sleuthkit Intro |  |  |  |  |
+| hideme |  |  |  |  |
+| PcapPoisoning |  |  |  |  |
+| who is it |  |  |  |  |
+| CanYouSee |  |  |  |  |
+| Secret of the Polyglot |  |  |  |  |
+| Disk, disk, sleuth! |  |  |  |  |
+| Milkslap |  |  |  |  |
+| Disk, disk, sleuth! II |  |  |  |  |
+| So Meta | :white_check_mark: |  |  |  |
+| shark on wire 1 |  |  |  |  |
+| extensions |  |  |  |  |
+| What Lies Within |  |  |  |  |
+| Pitter, Patter, Platters |  |  |  |  |
+| scrambled-bytes |  |  |  |  |
+| WPA-ing Out |  |  |  |  |
+| Sleuthkit Apprentice |  |  |  |  |
+| FindAndOpen |  |  |  |  |
+| MSB |  |  |  |  |
+| Mob psycho |  |  |  |  |
+| m00nwalk |  |  |  |  |
+| WhitePages |  |  |  |  |
+| c0rrupt |  |  |  |  |
+| like1000 |  |  |  |  |
+| Surfing the Waves |  |  |  |  |
+| m00nwalk2 |  |  |  |  |
+| Investigative Reversing 0 |  |  |  |  |
+| shark on wire 2 |  |  |  |  |
+| Very very very Hidden |  |  |  |  |
+| Eavesdrop |  |  |  |  |
+| Operation Oni |  |  |  |  |
+| St3g0 |  |  |  |  |
+| Invisible WORDs |  |  |  |  |
+| endianness-v2 |  |  |  |  |
+| Blast from the past |  |  |  |  |
+| Investigative Reversing 2 |  |  |  |  |
+| Investigative Reversing 1 |  |  |  |  |
+| WebNet0 |  |  |  |  |
+| Investigative Reversing 4 |  |  |  |  |
+| Investigative Reversing 3 |  |  |  |  |
+| Operation Orchid |  |  |  |  |
+| SideChannel |  |  |  |  |
+| Torrent Analyze |  |  |  |  |
+| Dear Diary |  |  |  |  |
+| WebNet1 |  |  |  |  |
+| investigation_encoded_1 |  |  |  |  |
+| investigation_encoded_2 |  |  |  |  |
+| B1g_Mac |  |  |  |  |
+| UnforgottenBits |  |  |  |  |
 
 ## Binary Exploitation
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Stonks |  |  |  |  |
+| format string 0 |  |  |  |  |
+| heap 0 |  |  |  |  |
+| Cache Me Outside |  |  |  |  |
+| Here's a LIBC |  |  |  |  |
+| Unsubscriptions Are Free |  |  |  |  |
+| basic-file-exploit |  |  |  |  |
+| buffer overflow 0 |  |  |  |  |
+| CVE-XXXX-XXXX |  |  |  |  |
+| babygame01 |  |  |  |  |
+| two-sum |  |  |  |  |
+| Local Target |  |  |  |  |
+| Picker IV |  |  |  |  |
+| format string 1 |  |  |  |  |
+| heap 1 |  |  |  |  |
+| clutter-overflow |  |  |  |  |
+| filtered-shellcode |  |  |  |  |
+| Kit Engine |  |  |  |  |
+| buffer overflow 1 |  |  |  |  |
+| RPS |  |  |  |  |
+| x-sixty-what |  |  |  |  |
+| babygame02 |  |  |  |  |
+| hijacking |  |  |  |  |
+| tic-tac |  |  |  |  |
+| VNE |  |  |  |  |
+| heap 2 |  |  |  |  |
+| heap 3 |  |  |  |  |
+| format string 2 |  |  |  |  |
+| Guessing Game 1 |  |  |  |  |
+| Stonk Market |  |  |  |  |
+| fermat-strings |  |  |  |  |
+| Guessing Game 2 |  |  |  |  |
+| buffer overflow 2 |  |  |  |  |
+| buffer overflow 3 |  |  |  |  |
+| flag leak |  |  |  |  |
+| ropfu |  |  |  |  |
+| wine |  |  |  |  |
+| Horsetrack |  |  |  |  |
+| format string 3 |  |  |  |  |
+| seed-sPRiNG |  |  |  |  |
+| Download Horsepower |  |  |  |  |
+| SaaS |  |  |  |  |
+| The Office |  |  |  |  |
+| homework |  |  |  |  |
+| function overwrite |  |  |  |  |
+| stack cache |  |  |  |  |
+| babygame03 |  |  |  |  |
+| Turboflan |  |  |  |  |
+| lockdown-horses |  |  |  |  |
+| sice_cream |  |  |  |  |
+| zero_to_hero |  |  |  |  |
+| Bizz Fuzz |  |  |  |  |
+| vr-school |  |  |  |  |
+| solfire |  |  |  |  |
+| high frequency troubles |  |  |  |  |
