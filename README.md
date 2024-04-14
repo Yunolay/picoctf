@@ -24,10 +24,10 @@ picoctf writeup
 | strings it | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/strings%20it) |
 | Bases | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Bases) |
 | First Grep | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/First%20Grep) |
-| Codebook | :white_check_mark: |  | 100 points |  |
-| convertme.py | :white_check_mark: |  | 100 points |  |
-| fixme1.py | :white_check_mark: |  | 100 points |  |
-| fixme2.py | :white_check_mark: |  | 100 points |  |
+| Codebook | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Codebook) |
+| convertme.py | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/convertme.py) |
+| fixme1.py | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/fixme1.py) |
+| fixme2.py | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/fixme2.py) |
 | Glitch Cat | :white_check_mark: |  | 100 points |  |
 | HashingJobApp | :white_check_mark: |  | 100 points |  |
 | PW Crack 1 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%201) |
