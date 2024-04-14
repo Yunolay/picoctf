@@ -278,7 +278,7 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| information | :white_check_mark: |  | 10 points | [Writeup Link](./Forensics/information) |
+| information | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./Forensics/information) |
 | Matryoshka doll | :white_check_mark: |  | 30 points | [Writeup Link](./Forensics/Matryoshka%20doll) |
 | tunn3l v1s10n |  |  | 40 points | [Writeup Link](./Forensics/tunn3l%20v1s10n) |
 | Glory of the Garden | :white_check_mark: |  | 50 points | [Writeup Link](./Forensics/Glory%20of%20the%20Garden) |
