@@ -2,7 +2,7 @@
 
 Tags: picoCTF 2019, General Skills
 
-|| Author | Point    |
+| Author | Point    |
 | ------ | -------- |
 | SANJAY C/DANNY T | 100 points |
 
