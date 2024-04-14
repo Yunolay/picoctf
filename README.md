@@ -5,13 +5,13 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Obedient Cat     | :white_check_mark: | :white_check_mark: | 5 points | [Writeup Link](General Skills/Obedient Cat/README.md) |
-| Python Wrangling | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](General Skills/Python Wrangling/README.md) |
-| Wave a flag      | :white_check_mark: | :white_check_mark: | 10 points |  |
-| Nice netcat... | :white_check_mark: | :white_check_mark: | 15 points |  |
-| Static ain't always noise | :white_check_mark: | :white_check_mark: | 20 points |  |
-| Tab, Tab, Attack | :white_check_mark: | :white_check_mark: | 20 points |  |
-| Super SSH | :white_check_mark: | :white_check_mark: | 25 points |  |
+| Obedient Cat     | :white_check_mark: | :white_check_mark: | 5 points | [Writeup Link](./General%20Skills/Obedient%20Cat/README.md) |
+| Python Wrangling | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Python%20Wrangling/README.md) |
+| Wave a flag      | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Wave%20a%20flag/README.md) |
+| Nice netcat... | :white_check_mark: | :white_check_mark: | 15 points | [Writeup Link](./General%20Skills/Static%20ain't%20always%20noise/README.md) |
+| Static ain't always noise | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Python%20Wrangling/README.md) |
+| Tab, Tab, Attack | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Tab,%20Tab,%20Attack/README.md) |
+| Super SSH | :white_check_mark: | :white_check_mark: | 25 points | [Writeup Link](./General%20Skills/Super%20SSH/README.md) |
 | Magikarp Ground Mission | :white_check_mark: |         | 30 points |  |
 | Lets Warm Up | :white_check_mark: |         | 50 points |  |
 | Warmed Up | :white_check_mark: |  | 50 points |  |
