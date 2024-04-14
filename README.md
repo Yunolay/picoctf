@@ -39,10 +39,10 @@ picoctf writeup
 | Serpentine | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Serpentine) |
 | First Find | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/First%20Find) |
 | Big Zip | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Big%20Zip) |
-| chrono | :white_check_mark: |  | 100 points |  |
-| money-ware | :white_check_mark: |  | 100 points |  |
-| Permissions | :white_check_mark: |  | 100 points |  |
-| repetitions | :white_check_mark: |  | 100 points |  |
+| chrono | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/chrono) |
+| money-ware | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/money-ware) |
+| Permissions | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Permissions) |
+| repetitions | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/repetitions) |
 | useless | :white_check_mark: |  | 100 points |  |
 | ASCII Numbers | :white_check_mark: |  | 100 points |  |
 | binhexa |  |  | 100 points |  |

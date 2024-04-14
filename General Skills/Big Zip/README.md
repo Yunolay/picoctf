@@ -15,7 +15,7 @@ Unzip this archive and find the flag.
 Unzip the given zip file using the unzip command.
 
 ```bash
-unzip big-zip-files.zip
+$ unzip big-zip-files.zip
 
 [snip]
 ```
