@@ -12,11 +12,11 @@ picoctf writeup
 | Static ain't always noise | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Python%20Wrangling/README.md) |
 | Tab, Tab, Attack | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Tab,%20Tab,%20Attack/README.md) |
 | Super SSH | :white_check_mark: | :white_check_mark: | 25 points | [Writeup Link](./General%20Skills/Super%20SSH/README.md) |
-| Magikarp Ground Mission | :white_check_mark: |         | 30 points |  |
-| Lets Warm Up | :white_check_mark: |         | 50 points |  |
-| Warmed Up | :white_check_mark: |  | 50 points |  |
-| 2Warm | :white_check_mark: |  | 50 points |  |
-| Commitment Issues | :white_check_mark: |  | 50 points |  |
+| Magikarp Ground Mission | :white_check_mark: | :white_check_mark: | 30 points | [Writeup Link](./General%20Skills/Magikarp%20Ground%20Mission/README.md) |
+| Lets Warm Up | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Lets%20Warm%20Up/README.md) |
+| Warmed Up | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Warmed%20Up/README.md) |
+| 2Warm | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/2Warm/README.md) |
+| Commitment Issues | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Commitment%20Issues/README.md) |
 | Time Machine | :white_check_mark: |  | 50 points |  |
 | Blame Game |  |  | 75 points |  |
 | Collaborative Development |  |  | 75 points |  |

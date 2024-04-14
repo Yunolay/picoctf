@@ -77,7 +77,7 @@ We will be given a text file containing the encrypted flag and password.
 ```bash
 $ cat pw.txt
 ac9bd0ffac9bd0ffac9bd0ffac9bd0ff
-~/ctf/picoctf/General Skills/Python Wrangling main*                                                                                                                                                                              15:39:02
+                                                                                                                                                                         15:39:02
 $ cat flag.txt.en
 gAAAAABgUAIWIvSiR0W23DAHIK5DX6Y4BvwES94M_XdDcNAquhp-A0D2z8n812YEXaSD9WhoweBh2cm5Wa0cqzuW0Kc7fOct0OJnpOmVF8A91j0Hx4dKtvk3l5ghPT71Y7GxErPRyJUs%
 ```
