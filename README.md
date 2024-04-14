@@ -125,7 +125,7 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Mod 26 | :white_check_mark: |  | 10 points | [Writeup Link](./Cryptography/Mod%2026) |
+| Mod 26 | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./Cryptography/Mod%2026) |
 | Mind your Ps and Qs |  |  | 20 points | [Writeup Link](./Cryptography/Mind%20your%20Ps%20and%20Qs) |
 | Easy Peasy |  |  | 40 points | [Writeup Link](./Cryptography/Easy%20Peasy) |
 | The Numbers | :white_check_mark: |  | 50 points | [Writeup Link](./Cryptography/The%20Numbers) |
@@ -135,7 +135,7 @@ picoctf writeup
 | Dachshund Attacks |  |  | 80 points | [Writeup Link](./Cryptography/Dachshund%20Attacks) |
 | No Padding, No Problem |  |  | 90 points | [Writeup Link](./Cryptography/No%20Padding%20No%20Problem) |
 | Easy1 | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/Easy1) |
-| 13 | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/13) |
+| 13 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./Cryptography/13) |
 | caesar | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/caesar) |
 | Pixelated |  |  | 100 points | [Writeup Link](./Cryptography/Pixelated) |
 | spelling-quiz |  |  | 100 points | [Writeup Link](./Cryptography/spelling-quiz) |
