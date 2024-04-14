@@ -18,8 +18,8 @@ picoctf writeup
 | 2Warm | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/2Warm/README.md) |
 | Commitment Issues | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Commitment%20Issues/README.md) |
 | Time Machine | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Time%20Machine/README.md) |
-| Blame Game |  |  | 75 points |  |
-| Collaborative Development |  |  | 75 points |  |
+| Blame Game | :white_check_mark: | :white_check_mark: | 75 points | [Writeup Link](./General%20Skills/Blame%20Game/README.md) |
+| Collaborative Development | :white_check_mark: | :white_check_mark: | 75 points | [Writeup Link](./General%20Skills/Collaborative%20Development/README.md) |
 | what's a net cat? | :white_check_mark: |  | 100 points |  |
 | strings it | :white_check_mark: |  | 100 points |  |
 | Bases | :white_check_mark: |  | 100 points |  |
