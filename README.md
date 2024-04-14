@@ -34,7 +34,7 @@ picoctf writeup
 | PW Crack 2 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%202/README.md) |
 | PW Crack 3 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%203/README.md) |
 | PW Crack 4 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%204/README.md) |
-| PW Crack 5 | :white_check_mark: |  | 100 points |  |
+| PW Crack 5 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%205/README.md) |
 | runme.py | :white_check_mark: |  | 100 points |  |
 | Serpentine | :white_check_mark: |  | 100 points |  |
 | First Find | :white_check_mark: |  | 100 points |  |
