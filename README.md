@@ -35,9 +35,9 @@ picoctf writeup
 | PW Crack 3 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%203) |
 | PW Crack 4 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%204) |
 | PW Crack 5 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%205) |
-| runme.py | :white_check_mark: |  | 100 points |  |
-| Serpentine | :white_check_mark: |  | 100 points |  |
-| First Find | :white_check_mark: |  | 100 points |  |
+| runme.py | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/runme.py) |
+| Serpentine | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Serpentine) |
+| First Find | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/First%20Find) |
 | Big Zip | :white_check_mark: |  | 100 points |  |
 | chrono | :white_check_mark: |  | 100 points |  |
 | money-ware | :white_check_mark: |  | 100 points |  |
