@@ -5,36 +5,36 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Obedient Cat     | :white_check_mark: | :white_check_mark: | 5 points | [Writeup Link](./General%20Skills/Obedient%20Cat/README.md) |
-| Python Wrangling | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Python%20Wrangling/README.md) |
-| Wave a flag      | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Wave%20a%20flag/README.md) |
-| Nice netcat... | :white_check_mark: | :white_check_mark: | 15 points | [Writeup Link](./General%20Skills/Static%20ain't%20always%20noise/README.md) |
-| Static ain't always noise | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Python%20Wrangling/README.md) |
-| Tab, Tab, Attack | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Tab,%20Tab,%20Attack/README.md) |
-| Super SSH | :white_check_mark: | :white_check_mark: | 25 points | [Writeup Link](./General%20Skills/Super%20SSH/README.md) |
-| Magikarp Ground Mission | :white_check_mark: | :white_check_mark: | 30 points | [Writeup Link](./General%20Skills/Magikarp%20Ground%20Mission/README.md) |
-| Lets Warm Up | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Lets%20Warm%20Up/README.md) |
-| Warmed Up | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Warmed%20Up/README.md) |
-| 2Warm | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/2Warm/README.md) |
-| Commitment Issues | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Commitment%20Issues/README.md) |
-| Time Machine | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Time%20Machine/README.md) |
-| Blame Game | :white_check_mark: | :white_check_mark: | 75 points | [Writeup Link](./General%20Skills/Blame%20Game/README.md) |
-| Collaborative Development | :white_check_mark: | :white_check_mark: | 75 points | [Writeup Link](./General%20Skills/Collaborative%20Development/README.md) |
-| what's a net cat? | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/what's%20a%20net%20cat?/README.md) |
-| strings it | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/strings%20it/README.md) |
-| Bases | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Bases/README.md) |
-| First Grep | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/First%20Grep/README.md) |
+| Obedient Cat     | :white_check_mark: | :white_check_mark: | 5 points | [Writeup Link](./General%20Skills/Obedient%20Cat) |
+| Python Wrangling | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Python%20Wrangling |
+| Wave a flag      | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./General%20Skills/Wave%20a%20flag) |
+| Nice netcat... | :white_check_mark: | :white_check_mark: | 15 points | [Writeup Link](./General%20Skills/Static%20ain't%20always%20noise) |
+| Static ain't always noise | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Python%20Wrangling) |
+| Tab, Tab, Attack | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./General%20Skills/Tab,%20Tab,%20Attack) |
+| Super SSH | :white_check_mark: | :white_check_mark: | 25 points | [Writeup Link](./General%20Skills/Super%20SSH) |
+| Magikarp Ground Mission | :white_check_mark: | :white_check_mark: | 30 points | [Writeup Link](./General%20Skills/Magikarp%20Ground%20Mission) |
+| Lets Warm Up | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Lets%20Warm%20Up) |
+| Warmed Up | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Warmed%20Up) |
+| 2Warm | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/2Warm) |
+| Commitment Issues | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Commitment%20Issues) |
+| Time Machine | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./General%20Skills/Time%20Machine) |
+| Blame Game | :white_check_mark: | :white_check_mark: | 75 points | [Writeup Link](./General%20Skills/Blame%20Game) |
+| Collaborative Development | :white_check_mark: | :white_check_mark: | 75 points | [Writeup Link](./General%20Skills/Collaborative%20Development) |
+| what's a net cat? | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/what's%20a%20net%20cat?) |
+| strings it | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/strings%20it) |
+| Bases | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/Bases) |
+| First Grep | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/First%20Grep) |
 | Codebook | :white_check_mark: |  | 100 points |  |
 | convertme.py | :white_check_mark: |  | 100 points |  |
 | fixme1.py | :white_check_mark: |  | 100 points |  |
 | fixme2.py | :white_check_mark: |  | 100 points |  |
 | Glitch Cat | :white_check_mark: |  | 100 points |  |
 | HashingJobApp | :white_check_mark: |  | 100 points |  |
-| PW Crack 1 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%201/README.md) |
-| PW Crack 2 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%202/README.md) |
-| PW Crack 3 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%203/README.md) |
-| PW Crack 4 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%204/README.md) |
-| PW Crack 5 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%205/README.md) |
+| PW Crack 1 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%201) |
+| PW Crack 2 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%202) |
+| PW Crack 3 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%203) |
+| PW Crack 4 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%204) |
+| PW Crack 5 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/PW%20Crack%205) |
 | runme.py | :white_check_mark: |  | 100 points |  |
 | Serpentine | :white_check_mark: |  | 100 points |  |
 | First Find | :white_check_mark: |  | 100 points |  |
