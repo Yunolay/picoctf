@@ -192,7 +192,7 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Transformation | :white_check_mark: |  | 20 points | [Writeup Link](./Reverse%20Engineering/Transformation) |
+| Transformation | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./Reverse%20Engineering/Transformation) |
 | keygenme-py | :white_check_mark: |  | 30 points | [Writeup Link](./Reverse%20Engineering/keygenme-py) |
 | crackme-py | :white_check_mark: |  | 30 points | [Writeup Link](./Reverse%20Engineering/crackme-py) |
 | ARMssembly 0 |  |  | 40 points | [Writeup Link](./Reverse%20Engineering/ARMssembly%200) |
@@ -400,6 +400,7 @@ picoctf writeup
 | sice_cream |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/sice_cream) |
 | zero_to_hero |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/zero_to_hero) |
 | Bizz Fuzz |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/Bizz%20Fuzz) |
-| vr-school |  |  | 500 points |  |
-| solfire |  |  | 500 points |  |
-| high frequency troubles |  |  | 500 points |  |
+| vr-school |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/vr-school) |
+| solfire |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/solfire) |
+| high frequency troubles |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/high%20frequency%20troubles) |
+
