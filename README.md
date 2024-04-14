@@ -192,214 +192,215 @@ picoctf writeup
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Transformation | :white_check_mark: |  | 20 points |  |
-| keygenme-py | :white_check_mark: |  | 30 points |  |
-| crackme-py | :white_check_mark: |  | 30 points |  |
-| ARMssembly 0 |  |  | 40 points |  |
-| vault-door-training | :white_check_mark: |  | 50 points |  |
-| speeds and feeds | :white_check_mark: |  | 50 points |  |
-| Shop | :white_check_mark: |  | 50 points |  |
-| ARMssembly 1 |  |  | 70 points |  |
-| ARMssembly 2 |  |  | 90 points |  |
-| vault-door-1 | :white_check_mark: |  | 100 points |  |
-| Hurry up! Wait! |  |  | 100 points |  |
-| file-run1 | :white_check_mark: |  | 100 points |  |
-| file-run2 | :white_check_mark: |  | 100 points |  |
-| GDB Test Drive | :white_check_mark: |  | 100 points |  |
-| patchme.py | :white_check_mark: |  | 100 points |  |
-| Safe Opener | :white_check_mark: |  | 100 points |  |
-| unpackme.py | :white_check_mark: |  | 100 points |  |
-| Ready Gladiator 0 |  |  | 100 points |  |
-| Reverse | :white_check_mark: |  | 100 points |  |
-| Safe Opener 2 | :white_check_mark: |  | 100 points |  |
-| timer |  |  | 100 points |  |
-| Virtual Machine 0 |  |  | 100 points |  |
-| ASCII FTW |  |  | 100 points |  |
-| Bit-O-Asm-1 |  |  | 100 points |  |
-| Bit-O-Asm-2 |  |  | 100 points |  |
-| Bit-O-Asm-3 |  |  | 100 points |  |
-| Bit-O-Asm-4 |  |  | 100 points |  |
-| GDB baby step 1 |  |  | 100 points |  |
-| GDB baby step 2 |  |  | 100 points |  |
-| GDB baby step 3 |  |  | 100 points |  |
-| GDB baby step 4 |  |  | 100 points |  |
-| Picker I |  |  | 100 points |  |
-| Picker II |  |  | 100 points |  |
-| Picker III |  |  | 100 points |  |
-| packer |  |  | 100 points |  |
-| gogo |  |  | 110 points |  |
-| ARMssembly 3 |  |  | 130 points |  |
-| Let's get dynamic |  |  | 150 points |  |
-| not crypto |  |  | 150 points |  |
-| Easy as GDB |  |  | 160 points |  |
-| ARMssembly 4 |  |  | 170 points |  |
-| Powershelly |  |  | 180 points |  |
-| asm1 |  |  | 200 points |  |
-| vault-door-3 |  |  | 200 points |  |
-| breadth |  |  | 200 points |  |
-| bloat.py |  |  | 200 points |  |
-| Fresh Java |  |  | 200 points |  |
-| No way out |  |  | 200 points |  |
-| Ready Gladiator 1 |  |  | 200 points |  |
-| FactCheck |  |  | 200 points |  |
-| WinAntiDbg0x100 |  |  | 200 points |  |
-| asm2 |  |  | 250 points |  |
-| vault-door-4 |  |  | 250 points |  |
-| droids0 |  |  | 300 points |  |
-| asm3 |  |  | 300 points |  |
-| vault-door-5 |  |  | 300 points |  |
-| reverse_cipher |  |  | 300 points |  |
-| OTP Implementation |  |  | 300 points |  |
-| Rolling My Own |  |  | 300 points |  |
-| Bbbbloat |  |  | 300 points |  |
-| unpackme |  |  | 300 points |  |
-| Virtual Machine 1 |  |  | 300 points |  |
-| Classic Crackme 0x100 |  |  | 300 points |  |
-| weirdSnake |  |  | 300 points |  |
-| WinAntiDbg0x200 |  |  | 300 points |  |
-| droids1 |  |  | 350 points |  |
-| vault-door-6 |  |  | 350 points |  |
-| riscy business |  |  | 350 points |  |
-| Checkpass |  |  | 375 points |  |
-| Need For Speed |  |  | 400 points |  |
-| droids2 |  |  | 400 points |  |
-| vault-door-7 |  |  | 400 points |  |
-| Keygenme |  |  | 400 points |  |
-| Ready Gladiator 2 |  |  | 400 points |  |
-| WinAntiDbg0x300 |  |  | 400 points |  |
-| vault-door-8 |  |  | 450 points |  |
-| droids3 |  |  | 450 points |  |
-| droids4 |  |  | 500 points |  |
-| Forky |  |  | 500 points |  |
-| MATRIX |  |  | 500 points |  |
-| Wizardlike |  |  | 500 points |  |
+| Transformation | :white_check_mark: |  | 20 points | [Writeup Link](./Reverse%20Engineering/Transformation) |
+| keygenme-py | :white_check_mark: |  | 30 points | [Writeup Link](./Reverse%20Engineering/keygenme-py) |
+| crackme-py | :white_check_mark: |  | 30 points | [Writeup Link](./Reverse%20Engineering/crackme-py) |
+| ARMssembly 0 |  |  | 40 points | [Writeup Link](./Reverse%20Engineering/ARMssembly%200) |
+| vault-door-training | :white_check_mark: |  | 50 points | [Writeup Link](./Reverse%20Engineering/vault-door-training) |
+| speeds and feeds | :white_check_mark: |  | 50 points | [Writeup Link](./Reverse%20Engineering/speeds%20and%20feeds) |
+| Shop | :white_check_mark: |  | 50 points | [Writeup Link](./Reverse%20Engineering/Shop) |
+| ARMssembly 1 |  |  | 70 points | [Writeup Link](./Reverse%20Engineering/ARMssembly%201) |
+| ARMssembly 2 |  |  | 90 points | [Writeup Link](./Reverse%20Engineering/ARMssembly%202) |
+| vault-door-1 | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/vault-door-1) |
+| Hurry up! Wait! |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Hurry%20up!%20Wait!%20) |
+| file-run1 | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/file-run1) |
+| file-run2 | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/file-run2) |
+| GDB Test Drive | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/GDB%20Test%20Drive) |
+| patchme.py | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/patchme.py) |
+| Safe Opener | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/Safe%20Opener) |
+| unpackme.py | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/unpackme.py) |
+| Ready Gladiator 0 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Ready%20Gladiator%200) |
+| Reverse | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/Reverse) |
+| Safe Opener 2 | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/Safe%20Opener%202) |
+| timer |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/timer) |
+| Virtual Machine 0 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Virtual%20Machine%200) |
+| ASCII FTW |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/ASCII%20FTW) |
+| Bit-O-Asm-1 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Bit-O-Asm-1) |
+| Bit-O-Asm-2 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Bit-O-Asm-2) |
+| Bit-O-Asm-3 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Bit-O-Asm-3) |
+| Bit-O-Asm-4 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Bit-O-Asm-4) |
+| GDB baby step 1 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/GDB%20baby%20step%201) |
+| GDB baby step 2 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/GDB%20baby%20step%202) |
+| GDB baby step 3 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/GDB%20baby%20step%203) |
+| GDB baby step 4 |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/GDB%20baby%20step%204) |
+| Picker I |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Picker%20I) |
+| Picker II |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Picker%20II) |
+| Picker III |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Picker%20III) |
+| packer |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/packer) |
+| gogo |  |  | 110 points | [Writeup Link](./Reverse%20Engineering/gogo) |
+| ARMssembly 3 |  |  | 130 points | [Writeup Link](./Reverse%20Engineering/ARMssembly%203) |
+| Let's get dynamic |  |  | 150 points | [Writeup Link](./Reverse%20Engineering/Let's%20get%20dynamic) |
+| not crypto |  |  | 150 points | [Writeup Link](./Reverse%20Engineering/not%20crypto) |
+| Easy as GDB |  |  | 160 points | [Writeup Link](./Reverse%20Engineering/Easy%20as%20GDB) |
+| ARMssembly 4 |  |  | 170 points | [Writeup Link](./Reverse%20Engineering/ARMssembly%204) |
+| Powershelly |  |  | 180 points | [Writeup Link](./Reverse%20Engineering/Powershelly) |
+| asm1 |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/asm1) |
+| vault-door-3 |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/vault-door-3) |
+| breadth |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/breadth) |
+| bloat.py |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/bloat.py) |
+| Fresh Java |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/Fresh%20Java) |
+| No way out |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/No%20way%20out) |
+| Ready Gladiator 1 |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/Ready%20Gladiator%201) |
+| FactCheck |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/FactCheck) |
+| WinAntiDbg0x100 |  |  | 200 points | [Writeup Link](./Reverse%20Engineering/WinAntiDbg0x100) |
+| asm2 |  |  | 250 points | [Writeup Link](./Reverse%20Engineering/asm2) |
+| vault-door-4 |  |  | 250 points | [Writeup Link](./Reverse%20Engineering/vault-door-4) |
+| droids0 |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/droids0) |
+| asm3 |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/asm3) |
+| vault-door-5 |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/vault-door-5) |
+| reverse_cipher |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/reverse_cipher) |
+| OTP Implementation |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/OTP%20Implementation) |
+| Rolling My Own |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/Rolling%20My%20Own) |
+| Bbbbloat |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/Bbbbloat) |
+| unpackme |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/unpackme) |
+| Virtual Machine 1 |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/Virtual%20Machine%201) |
+| Classic Crackme 0x100 |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/Classic%20Crackme%200x100) |
+| weirdSnake |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/weirdSnake) |
+| WinAntiDbg0x200 |  |  | 300 points | [Writeup Link](./Reverse%20Engineering/WinAntiDbg0x200) |
+| droids1 |  |  | 350 points | [Writeup Link](./Reverse%20Engineering/droids1) |
+| vault-door-6 |  |  | 350 points | [Writeup Link](./Reverse%20Engineering/vault-door-6) |
+| riscy business |  |  | 350 points | [Writeup Link](./Reverse%20Engineering/riscy%20business) |
+| Checkpass |  |  | 375 points | [Writeup Link](./Reverse%20Engineering/Checkpass) |
+| Need For Speed |  |  | 400 points | [Writeup Link](./Reverse%20Engineering/Need%20For%20Speed) |
+| droids2 |  |  | 400 points | [Writeup Link](./Reverse%20Engineering/droids2) |
+| vault-door-7 |  |  | 400 points | [Writeup Link](./Reverse%20Engineering/vault-door-7) |
+| Keygenme |  |  | 400 points | [Writeup Link](./Reverse%20Engineering/Keygenme) |
+| Ready Gladiator 2 |  |  | 400 points | [Writeup Link](./Reverse%20Engineering/Ready%20Gladiator%202) |
+| WinAntiDbg0x300 |  |  | 400 points | [Writeup Link](./Reverse%20Engineering/WinAntiDbg0x300) |
+| vault-door-8 |  |  | 450 points | [Writeup Link](./Reverse%20Engineering/vault-door-8) |
+| droids3 |  |  | 450 points | [Writeup Link](./Reverse%20Engineering/droids3) |
+| droids4 |  |  | 500 points | [Writeup Link](./Reverse%20Engineering/droids4) |
+| Forky |  |  | 500 points | [Writeup Link](./Reverse%20Engineering/Forky) |
+| MATRIX |  |  | 500 points | [Writeup Link](./Reverse%20Engineering/MATRIX) |
+| Wizardlike |  |  | 500 points | [Writeup Link](./Reverse%20Engineering/Wizardlike) |
 
 ## Forensics
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| information | :white_check_mark: |  | 10 points |  |
-| Matryoshka doll | :white_check_mark: |  | 30 points |  |
-| tunn3l v1s10n |  |  | 40 points |  |
-| Glory of the Garden | :white_check_mark: |  | 50 points |  |
-| Wireshark doo dooo do doo... |  |  | 50 points |  |
-| Scan Surprise |  |  | 50 points |  |
-| Verify |  |  | 50 points |  |
-| MacroHard WeakEdge | :white_check_mark: |  | 60 points |  |
-| Trivial Flag Transfer Protocol |  |  | 90 points |  |
-| Wireshark twoo twooo two twoo... |  |  | 100 points |  |
-| advanced-potion-making |  |  | 100 points |  |
-| Enhance! |  |  | 100 points |  |
-| File types |  |  | 100 points |  |
-| Lookey here | :white_check_mark: |  | 100 points |  |
-| Packets Primer | :white_check_mark: |  | 100 points |  |
-| Redaction gone wrong | :white_check_mark: |  | 100 points |  |
-| Sleuthkit Intro |  |  | 100 points |  |
-| hideme |  |  | 100 points |  |
-| PcapPoisoning |  |  | 100 points |  |
-| who is it |  |  | 100 points |  |
-| CanYouSee |  |  | 100 points |  |
-| Secret of the Polyglot |  |  | 100 points |  |
-| Disk, disk, sleuth! |  |  | 110 points |  |
-| Milkslap |  |  | 120 points |  |
-| Disk, disk, sleuth! II |  |  | 130 points |  |
-| So Meta | :white_check_mark: |  | 150 points |  |
-| shark on wire 1 |  |  | 150 points |  |
-| extensions |  |  | 150 points |  |
-| What Lies Within |  |  | 150 points |  |
-| Pitter, Patter, Platters |  |  | 200 points |  |
-| scrambled-bytes |  |  | 200 points |  |
-| WPA-ing Out |  |  | 200 points |  |
-| Sleuthkit Apprentice |  |  | 200 points |  |
-| FindAndOpen |  |  | 200 points |  |
-| MSB |  |  | 200 points |  |
-| Mob psycho |  |  | 200 points |  |
-| m00nwalk |  |  | 250 points |  |
-| WhitePages |  |  | 250 points |  |
-| c0rrupt |  |  | 250 points |  |
-| like1000 |  |  | 250 points |  |
-| Surfing the Waves |  |  | 250 points |  |
-| m00nwalk2 |  |  | 300 points |  |
-| Investigative Reversing 0 |  |  | 300 points |  |
-| shark on wire 2 |  |  | 300 points |  |
-| Very very very Hidden |  |  | 300 points |  |
-| Eavesdrop |  |  | 300 points |  |
-| Operation Oni |  |  | 300 points |  |
-| St3g0 |  |  | 300 points |  |
-| Invisible WORDs |  |  | 300 points |  |
-| endianness-v2 |  |  | 300 points |  |
-| Blast from the past |  |  | 300 points |  |
-| Investigative Reversing 2 |  |  | 350 points |  |
-| Investigative Reversing 1 |  |  | 350 points |  |
-| WebNet0 |  |  | 350 points |  |
-| Investigative Reversing 4 |  |  | 400 points |  |
-| Investigative Reversing 3 |  |  | 400 points |  |
-| Operation Orchid |  |  | 400 points |  |
-| SideChannel |  |  | 400 points |  |
-| Torrent Analyze |  |  | 400 points |  |
-| Dear Diary |  |  | 400 points |  |
-| WebNet1 |  |  | 400 points |  |
-| investigation_encoded_1 |  |  | 450 points |  |
-| investigation_encoded_2 |  |  | 500 points |  |
-| B1g_Mac |  |  | 500 points |  |
-| UnforgottenBits |  |  | 500 points |  |
+| information | :white_check_mark: |  | 10 points | [Writeup Link](./Forensics/information) |
+| Matryoshka doll | :white_check_mark: |  | 30 points | [Writeup Link](./Forensics/Matryoshka%20doll) |
+| tunn3l v1s10n |  |  | 40 points | [Writeup Link](./Forensics/tunn3l%20v1s10n) |
+| Glory of the Garden | :white_check_mark: |  | 50 points | [Writeup Link](./Forensics/Glory%20of%20the%20Garden) |
+| Wireshark doo dooo do doo... |  |  | 50 points | [Writeup Link](./Forensics/Wireshark%20doo%20dooo%20do%20doo...) |
+| Scan Surprise |  |  | 50 points | [Writeup Link](./Forensics/Scan%20Surprise) |
+| Verify |  |  | 50 points | [Writeup Link](./Forensics/Verify) |
+| MacroHard WeakEdge | :white_check_mark: |  | 60 points | [Writeup Link](./Forensics/MacroHard%20WeakEdge) |
+| Trivial Flag Transfer Protocol |  |  | 90 points | [Writeup Link](./Forensics/Trivial%20Flag%20Transfer%20Protocol) |
+| Wireshark twoo twooo two twoo... |  |  | 100 points | [Writeup Link](./Forensics/Wireshark%20twoo%20twooo%20two%20twoo...) |
+| advanced-potion-making |  |  | 100 points | [Writeup Link](./Forensics/advanced-potion-making) |
+| Enhance! |  |  | 100 points | [Writeup Link](./Forensics/Enhance!) |
+| File types |  |  | 100 points | [Writeup Link](./Forensics/File%20types) |
+| Lookey here | :white_check_mark: |  | 100 points | [Writeup Link](./Forensics/Lookey%20here) |
+| Packets Primer | :white_check_mark: |  | 100 points | [Writeup Link](./Forensics/Packets%20Primer) |
+| Redaction gone wrong | :white_check_mark: |  | 100 points | [Writeup Link](./Forensics/Redaction%20gone%20wrong) |
+| Sleuthkit Intro |  |  | 100 points | [Writeup Link](./Forensics/Sleuthkit%20Intro) |
+| hideme |  |  | 100 points | [Writeup Link](./Forensics/hideme) |
+| PcapPoisoning |  |  | 100 points | [Writeup Link](./Forensics/PcapPoisoning) |
+| who is it |  |  | 100 points | [Writeup Link](./Forensics/who%20is%20it) |
+| CanYouSee |  |  | 100 points | [Writeup Link](./Forensics/CanYouSee) |
+| Secret of the Polyglot |  |  | 100 points | [Writeup Link](./Forensics/Secret%20of%20the%20Polyglot) |
+| Disk, disk, sleuth! |  |  | 110 points | [Writeup Link](./Forensics/Disk,%20disk,%20sleuth!%20I) |
+| Milkslap |  |  | 120 points | [Writeup Link](./Forensics/Milkslap) |
+| Disk, disk, sleuth! II |  |  | 130 points | [Writeup Link](./Forensics/Disk,%20disk,%20sleuth!%20II) |
+| So Meta | :white_check_mark: |  | 150 points | [Writeup Link](./Forensics/So%20Meta) |
+| shark on wire 1 |  |  | 150 points | [Writeup Link](./Forensics/shark%20on%20wire%201) |
+| extensions |  |  | 150 points | [Writeup Link](./Forensics/extensions) |
+| What Lies Within |  |  | 150 points | [Writeup Link](./Forensics/What%20Lies%20Within) |
+| Pitter, Patter, Platters |  |  | 200 points | [Writeup Link](./Forensics/Pitter,%20Patter,%20Platters) |
+| scrambled-bytes |  |  | 200 points | [Writeup Link](./Forensics/scrambled-bytes) |
+| WPA-ing Out |  |  | 200 points | [Writeup Link](./Forensics/WPA-ing%20Out) |
+| Sleuthkit Apprentice |  |  | 200 points | [Writeup Link](./Forensics/Sleuthkit%20Apprentice) |
+| FindAndOpen |  |  | 200 points | [Writeup Link](./Forensics/FindAndOpen) |
+| MSB |  |  | 200 points | [Writeup Link](./Forensics/MSB) |
+| Mob psycho |  |  | 200 points | [Writeup Link](./Forensics/Mob%20psycho) |
+| m00nwalk |  |  | 250 points | [Writeup Link](./Forensics/m00nwalk) |
+| WhitePages |  |  | 250 points | [Writeup Link](./Forensics/WhitePages) |
+| c0rrupt |  |  | 250 points | [Writeup Link](./Forensics/c0rrupt) |
+| like1000 |  |  | 250 points | [Writeup Link](./Forensics/like1000) |
+| Surfing the Waves |  |  | 250 points | [Writeup Link](./Forensics/Surfing%20the%20Waves) |
+| m00nwalk2 |  |  | 300 points | [Writeup Link](./Forensics/m00nwalk2) |
+| Investigative Reversing 0 |  |  | 300 points | [Writeup Link](./Forensics/Investigative%20Reversing%200) |
+| shark on wire 2 |  |  | 300 points | [Writeup Link](./Forensics/shark%20on%20wire%202) |
+| Very very very Hidden |  |  | 300 points | [Writeup Link](./Forensics/Very%20very%20very%20Hidden) |
+| Eavesdrop |  |  | 300 points | [Writeup Link](./Forensics/Eavesdrop) |
+| Operation Oni |  |  | 300 points | [Writeup Link](./Forensics/Operation%20Oni) |
+| St3g0 |  |  | 300 points | [Writeup Link](./Forensics/St3g0) |
+| Invisible WORDs |  |  | 300 points | [Writeup Link](./Forensics/Invisible%20WORDs) |
+| endianness-v2 |  |  | 300 points | [Writeup Link](./Forensics/endianness-v2) |
+| Blast from the past |  |  | 300 points | [Writeup Link](./Forensics/Blast%20from%20the%20past) |
+| Investigative Reversing 2 |  |  | 350 points | [Writeup Link](./Forensics/Investigative%20Reversing%202) |
+| Investigative Reversing 1 |  |  | 350 points | [Writeup Link](./Forensics/Investigative%20Reversing%201) |
+| WebNet0 |  |  | 350 points | [Writeup Link](./Forensics/WebNet0) |
+| Investigative Reversing 4 |  |  | 400 points | [Writeup Link](./Forensics/Investigative%20Reversing%204) |
+| Investigative Reversing 3 |  |  | 400 points | [Writeup Link](./Forensics/Investigative%20Reversing%203) |
+| Operation Orchid |  |  | 400 points | [Writeup Link](./Forensics/Operation%20Orchid) |
+| SideChannel |  |  | 400 points | [Writeup Link](./Forensics/SideChannel) |
+| Torrent Analyze |  |  | 400 points | [Writeup Link](./Forensics/Torrent%20Analyze) |
+| Dear Diary |  |  | 400 points | [Writeup Link](./Forensics/Dear%20Diary) |
+| WebNet1 |  |  | 400 points | [Writeup Link](./Forensics/WebNet1) |
+| investigation_encoded_1 |  |  | 450 points | [Writeup Link](./Forensics/investigation_encoded_1) |
+| investigation_encoded_2 |  |  | 500 points | [Writeup Link](./Forensics/investigation_encoded_2) |
+| B1g_Mac |  |  | 500 points | [Writeup Link](./Forensics/B1g_Mac) |
+| UnforgottenBits |  |  | 500 points | √(./Forensics/UnforgottenBits) |
 
 ## Binary Exploitation
 
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
-| Stonks | :white_check_mark: |  | 20 points |  |
-| format string 0 |  |  | 50 points |  |
-| heap 0 |  |  | 50 points |  |
-| Cache Me Outside |  |  | 70 points |  |
-| Here's a LIBC |  |  | 90 points |  |
-| Unsubscriptions Are Free |  |  | 100 points |  |
-| basic-file-exploit |  |  | 100 points |  |
-| buffer overflow 0 | :white_check_mark: |  | 100 points |  |
-| CVE-XXXX-XXXX |  |  | 100 points |  |
-| babygame01 |  |  | 100 points |  |
-| two-sum |  |  | 100 points |  |
-| Local Target |  |  | 100 points |  |
-| Picker IV |  |  | 100 points |  |
-| format string 1 |  |  | 100 points |  |
-| heap 1 |  |  | 100 points |  |
-| clutter-overflow |  |  | 150 points |  |
-| filtered-shellcode |  |  | 160 points |  |
-| Kit Engine |  |  | 200 points |  |
-| buffer overflow 1 |  |  | 200 points |  |
-| RPS |  |  | 200 points |  |
-| x-sixty-what |  |  | 200 points |  |
-| babygame02 |  |  | 200 points |  |
-| hijacking |  |  | 200 points |  |
-| tic-tac |  |  | 200 points |  |
-| VNE |  |  | 200 points |  |
-| heap 2 |  |  | 200 points |  |
-| heap 3 |  |  | 200 points |  |
-| format string 2 |  |  | 200 points |  |
-| Guessing Game 1 |  |  | 250 points |  |
-| Stonk Market |  |  | 250 points |  |
-| fermat-strings |  |  | 250 points |  |
-| Guessing Game 2 |  |  | 300 points |  |
-| buffer overflow 2 |  |  | 300 points |  |
-| buffer overflow 3 |  |  | 300 points |  |
-| flag leak |  |  | 300 points |  |
-| ropfu |  |  | 300 points |  |
-| wine |  |  | 300 points |  |
-| Horsetrack |  |  | 300 points |  |
-| format string 3 |  |  | 300 points |  |
-| seed-sPRiNG |  |  | 350 points |  |
-| Download Horsepower |  |  | 350 points |  |
-| SaaS |  |  | 350 points |  |
-| The Office |  |  | 400 points |  |
-| homework |  |  | 400 points |  |
-| function overwrite |  |  | 400 points |  |
-| stack cache |  |  | 400 points |  |
-| babygame03 |  |  | 400 points |  |
-| Turboflan |  |  | 450 points |  |
-| lockdown-horses |  |  | 450 points |  |
-| sice_cream |  |  | 500 points |  |
-| zero_to_hero |  |  | 500 points |  |
-| Bizz Fuzz |  |  | 500 points |  |
-| vr-school |  |  | 500 points |  |
-| solfire |  |  | 500 points |  |
-| high frequency troubles |  |  | 500 points |  |
+| Stonks | :white_check_mark: |  | 20 points | [Writeup Link](./Binary%20Exploitation/Stonks) |
+| format string 0 |  |  | 50 points | [Writeup Link](./Binary%20Exploitation/format%20string%200) |
+| heap 0 |  |  | 50 points | [Writeup Link](./Binary%20Exploitation/heap%200) |
+| Cache Me Outside |  |  | 70 points | [Writeup Link](./Binary%20Exploitation/Cache%20Me%20Outside) |
+| Here's a LIBC |  |  | 90 points | [Writeup Link](./Binary%20Exploitation/Here's%20a%20LIBC) |
+| Unsubscriptions Are Free |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/Unsubscriptions%20Are%20Free) |
+| basic-file-exploit |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/basic-file-exploit) |
+| buffer overflow 0 | :white_check_mark: |  | 100 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%200) |
+| CVE-XXXX-XXXX |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/CVE-XXXX-XXXX) |
+| babygame01 |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/babygame01) |
+| two-sum |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/two-sum) |
+| Local Target |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/Local%20Target) |
+| Picker IV |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/Picker%20IV) |
+| format string 1 |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/format%20string%201) |
+| heap 1 |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/heap%201) |
+| clutter-overflow |  |  | 150 points | [Writeup Link](./Binary%20Exploitation/clutter-overflow) |
+| filtered-shellcode |  |  | 160 points | [Writeup Link](./Binary%20Exploitation/filtered-shellcode) |
+| Kit Engine |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/Kit%20Engine) |
+| buffer overflow 1 |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%201) |
+| RPS |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/RPS) |
+| x-sixty-what |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/x-sixty-what) |
+| babygame02 |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/babygame02) |
+| hijacking |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/hijacking) |
+| tic-tac |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/tic-tac) |
+| VNE |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/VNE) |
+| heap 2 |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/heap%202) |
+| heap 3 |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/heap%203) |
+| format string 2 |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/format%20string%202) |
+| Guessing Game 1 |  |  | 250 points | [Writeup Link](./Binary%20Exploitation/Guessing%20Game%201) |
+| Stonk Market |  |  | 250 points | [Writeup Link](./Binary%20Exploitation/Stonk%20Market) |
+| fermat-strings |  |  | 250 points | [Writeup Link](./Binary%20Exploitation/fermat-strings) |
+| Guessing Game 2 |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/Guessing%20Game%202) |
+| buffer overflow 2 |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%202) |
+| buffer overflow 3 |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%203) |
+| flag leak |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/flag%20leak) |
+| ropfu |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/ropfu) |
+| wine |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/wine) |
+| Horsetrack |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/Horsetrack) |
+| format string 3 |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/format%20string%203) |
+| seed-sPRiNG |  |  | 350 points | [Writeup Link](./Binary%20Exploitation/seed-sPRiNG) |
+| Download Horsepower |  |  | 350 points | [Writeup Link](./Binary%20Exploitation/Download%20Horsepower) |
+| SaaS |  |  | 350 points | [Writeup Link](./Binary%20Exploitation/SaaS) |
+| The Office |  |  | 400 points | [Writeup Link](./Binary%20Exploitation/The%20Office) |
+| homework |  |  | 400 points | [Writeup Link](./Binary%20Exploitation/homework) |
+| function overwrite |  |  | 400 points | [Writeup Link](./Binary%20Exploitation/function%20overwrite) |
+| stack cache |  |  | 400 points | [Writeup Link](./Binary%20Exploitation/stack%20cache) |
+| babygame03 |  |  | 400 points | [Writeup Link](./Binary%20Exploitation/babygame03) |
+| Turboflan |  |  | 450 points | [Writeup Link](./Binary%20Exploitation/Turboflan) |
+| lockdown-horses |  |  | 450 points | [Writeup Link](./Binary%20Exploitation/lockdown-horses) |
+| sice_cream |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/sice_cream) |
+| zero_to_hero |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/zero_to_hero) |
+| Bizz Fuzz |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/Bizz%20Fuzz) |
+| vr-school |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/vr-school) |
+| solfire |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/solfire) |
+| high frequency troubles |  |  | 500 points | [Writeup Link](./Binary%20Exploitation/high%20frequency%20troubles) |
+
