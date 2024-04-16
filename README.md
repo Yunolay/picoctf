@@ -45,18 +45,18 @@ picoctf writeup
 | repetitions | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/repetitions) |
 | useless | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/useless) |
 | ASCII Numbers | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./General%20Skills/ASCII%20Numbers) |
-| binhexa |  |  | 100 points |  |
-| Binary Search |  |  | 100 points |  |
-| Based | :white_check_mark: |  | 200 points |  |
-| plumbing | :white_check_mark: |  | 200 points |  |
-| endianness |  |  | 200 points |  |
-| mus1c | :white_check_mark: |  | 300 points |  |
-| flag_shop | :white_check_mark: |  | 300 points |  |
-| Special | :white_check_mark: |  | 300 points |  |
-| dont-you-love-banners |  |  | 300 points |  |
-| 1_wanna_b3_a_r0ck5tar | :white_check_mark: |  | 350 points |  |
-| Specialer | :white_check_mark: |  | 400 points |  |
-| SansAlpha |  |  | 400 points |  |
+| binhexa |  |  | 100 points | [Writeup Link](./General%20Skills/binhexa) |
+| Binary Search |  |  | 100 points | [Writeup Link](./General%20Skills/Binary%20Search) |
+| Based | :white_check_mark: |  | 200 points | [Writeup Link](./General%20Skills/Based) |
+| plumbing | :white_check_mark: |  | 200 points | [Writeup Link](./General%20Skills/plumbing) |
+| endianness |  |  | 200 points | [Writeup Link](./General%20Skills/endianness) |
+| mus1c | :white_check_mark: |  | 300 points | [Writeup Link](./General%20Skills/mus1c) |
+| flag_shop | :white_check_mark: |  | 300 points | [Writeup Link](./General%20Skills/flag_shop) |
+| Special | :white_check_mark: |  | 300 points | [Writeup Link](./General%20Skills/Special) |
+| dont-you-love-banners |  |  | 300 points | [Writeup Link](./General%20Skills/dont-you-love-banners) |
+| 1_wanna_b3_a_r0ck5tar | :white_check_mark: |  | 350 points | [Writeup Link](./General%20Skills/1_wanna_b3_a_r0ck5tar) |
+| Specialer | :white_check_mark: |  | 400 points | [Writeup Link](./General%20Skills/Specialer) |
+| SansAlpha |  |  | 400 points | [Writeup Link](./General%20Skills/SansAlpha) |
 
 ## Web Exploitation
 
@@ -136,7 +136,7 @@ picoctf writeup
 | No Padding, No Problem |  |  | 90 points | [Writeup Link](./Cryptography/No%20Padding%20No%20Problem) |
 | Easy1 | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/Easy1) |
 | 13 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./Cryptography/13) |
-| caesar | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/caesar) |
+| caesar | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./Cryptography/caesar) |
 | Pixelated |  |  | 100 points | [Writeup Link](./Cryptography/Pixelated) |
 | spelling-quiz |  |  | 100 points | [Writeup Link](./Cryptography/spelling-quiz) |
 | basic-mod1 | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/basic-mod1) |
@@ -281,7 +281,7 @@ picoctf writeup
 | information | :white_check_mark: | :white_check_mark: | 10 points | [Writeup Link](./Forensics/information) |
 | Matryoshka doll | :white_check_mark: |  | 30 points | [Writeup Link](./Forensics/Matryoshka%20doll) |
 | tunn3l v1s10n |  |  | 40 points | [Writeup Link](./Forensics/tunn3l%20v1s10n) |
-| Glory of the Garden | :white_check_mark: |  | 50 points | [Writeup Link](./Forensics/Glory%20of%20the%20Garden) |
+| Glory of the Garden | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./Forensics/Glory%20of%20the%20Garden) |
 | Wireshark doo dooo do doo... |  |  | 50 points | [Writeup Link](./Forensics/Wireshark%20doo%20dooo%20do%20doo...) |
 | Scan Surprise |  |  | 50 points | [Writeup Link](./Forensics/Scan%20Surprise) |
 | Verify |  |  | 50 points | [Writeup Link](./Forensics/Verify) |
@@ -355,7 +355,7 @@ picoctf writeup
 | Here's a LIBC |  |  | 90 points | [Writeup Link](./Binary%20Exploitation/Here's%20a%20LIBC) |
 | Unsubscriptions Are Free |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/Unsubscriptions%20Are%20Free) |
 | basic-file-exploit |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/basic-file-exploit) |
-| buffer overflow 0 | :white_check_mark: |  | 100 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%200) |
+| buffer overflow 0 | :white_check_mark: | :warning: | 100 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%200) |
 | CVE-XXXX-XXXX |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/CVE-XXXX-XXXX) |
 | babygame01 |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/babygame01) |
 | two-sum |  |  | 100 points | [Writeup Link](./Binary%20Exploitation/two-sum) |

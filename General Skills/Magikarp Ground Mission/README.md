@@ -11,6 +11,10 @@ Tags: picoCTF 2021, General Skills
 Do you know how to move between directories and read files in the shell? Start the container, `ssh` to it, and then `ls` once connected to begin. Login via `ssh` as `ctf-player` with the password, `a13b7f9d`  
 Additional details will be available after launching your challenge instance.
 
+## Hints
+
+1. Finding a cheatsheet for bash would be really helpful!
+
 ## Solve
 
 After connecting via ssh, collect the flag pieces according to the instructions.

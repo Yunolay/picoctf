@@ -10,6 +10,10 @@ Tags: picoCTF 2021, General Skills
 
 Using tabcomplete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames: Addadshashanammu.zip
 
+## Hints
+
+1. After `unzip`ing, this problem can be solved with 11 button-presses...(mostly Tab)...
+
 ## Solve
 
 Unzip the given zip file using the unzip command.
@@ -42,4 +46,10 @@ Use the grep command to output only strings containing flags.
 ```bash
 $ strings Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/fang-of-haynekhtnamet | grep pico
 *ZAP!* picoCTF{l3v3l_up!_t4k3_4_r35t!_********}
+```
+
+## Flag
+
+```
+picoCTF{l3v3l_up!_t4k3_4_r35t!_********}
 ```

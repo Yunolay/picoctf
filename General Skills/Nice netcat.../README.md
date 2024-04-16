@@ -10,6 +10,11 @@ Tags: picoCTF2021, General Skills
 
 There is a nice program that you can talk to by using this command in a shell: $ nc mercury.picoctf.net 21135, but it doesn't speak English...
 
+## Hints
+
+1. You can practice using netcat with this picoGym problem: what's a netcat?
+2. You can practice reading and writing ASCII with this picoGym problem: Let's Warm Up
+
 ## Solve
 
 ```bash
@@ -70,5 +75,11 @@ Run the script and we will get the flag.
 
 ```bash
 $ python3 solve.py        
+picoCTF{g00d_k1tty!_n1c3_k1tty!_********}
+```
+
+## Flag
+
+```
 picoCTF{g00d_k1tty!_n1c3_k1tty!_********}
 ```
