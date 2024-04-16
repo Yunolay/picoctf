@@ -63,9 +63,9 @@ picoctf writeup
 | Problem          | Solved             | Writeup            | Points | Links |
 | ---------------- | ------------------ | ------------------ | ---------------- | ---------------- |
 | GET aHEAD | :white_check_mark: | :white_check_mark: | 20 points | [Writeup Link](./Web%20Exploitation/GET%20aHEAD) |
-| Cookies | :white_check_mark: |  | 40 points | [Writeup Link](./Web%20Exploitation/Cookies) |
-| Insp3ct0r | :white_check_mark: |  | 50 points | [Writeup Link](./Web%20Exploitation/Insp3ct0r) |
-| Scavenger Hunt | :white_check_mark: |  | 50 points | [Writeup Link](./Web%20Exploitation/Scavenger%20Hunt) |
+| Cookies | :white_check_mark: | :white_check_mark: | 40 points | [Writeup Link](./Web%20Exploitation/Cookies) |
+| Insp3ct0r | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./Web%20Exploitation/Insp3ct0r) |
+| Scavenger Hunt | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./Web%20Exploitation/Scavenger%20Hunt) |
 | Bookmarklet | :white_check_mark: |  | 50 points | [Writeup Link](./Web%20Exploitation/Bookmarklet) |
 | WebDecode | :white_check_mark: |  | 50 points | [Writeup Link](./Web%20Exploitation/WebDecode) |
 | Some Assembly Required 1 | :white_check_mark: |  | 70 points | [Writeup Link](./Web%20Exploitation/Some%20Assembly%20Required%201) |
