@@ -203,8 +203,8 @@ picoctf writeup
 | ARMssembly 2 |  |  | 90 points | [Writeup Link](./Reverse%20Engineering/ARMssembly%202) |
 | vault-door-1 | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/vault-door-1) |
 | Hurry up! Wait! |  |  | 100 points | [Writeup Link](./Reverse%20Engineering/Hurry%20up!%20Wait!%20) |
-| file-run1 | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/file-run1) |
-| file-run2 | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/file-run2) |
+| file-run1 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./Reverse%20Engineering/file-run1) |
+| file-run2 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./Reverse%20Engineering/file-run2) |
 | GDB Test Drive | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/GDB%20Test%20Drive) |
 | patchme.py | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/patchme.py) |
 | Safe Opener | :white_check_mark: |  | 100 points | [Writeup Link](./Reverse%20Engineering/Safe%20Opener) |
