@@ -129,7 +129,7 @@ picoctf writeup
 | Mind your Ps and Qs |  |  | 20 points | [Writeup Link](./Cryptography/Mind%20your%20Ps%20and%20Qs) |
 | Easy Peasy |  |  | 40 points | [Writeup Link](./Cryptography/Easy%20Peasy) |
 | The Numbers | :white_check_mark: |  | 50 points | [Writeup Link](./Cryptography/The%20Numbers) |
-| interencdec |  |  | 50 points | [Writeup Link](./Cryptography/interencdec) |
+| interencdec | :white_check_mark: | :white_check_mark: | 50 points | [Writeup Link](./Cryptography/interencdec) |
 | New Caesar | :white_check_mark: |  | 60 points | [Writeup Link](./Cryptography/New%20Caesar) |
 | Mini RSA |  |  | 70 points | [Writeup Link](./Cryptography/Mini%20RSA) |
 | Dachshund Attacks |  |  | 80 points | [Writeup Link](./Cryptography/Dachshund%20Attacks) |
@@ -139,7 +139,7 @@ picoctf writeup
 | caesar | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./Cryptography/caesar) |
 | Pixelated |  |  | 100 points | [Writeup Link](./Cryptography/Pixelated) |
 | spelling-quiz |  |  | 100 points | [Writeup Link](./Cryptography/spelling-quiz) |
-| basic-mod1 | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/basic-mod1) |
+| basic-mod1 | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./Cryptography/basic-mod1) |
 | basic-mod2 |  |  | 100 points | [Writeup Link](./Cryptography/basic-mod2) |
 | credstuff |  |  | 100 points | [Writeup Link](./Cryptography/credstuff) |
 | morse-code | :white_check_mark: |  | 100 points | [Writeup Link](./Cryptography/morse-code) |
