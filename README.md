@@ -50,7 +50,7 @@ picoctf writeup
 | Based | :white_check_mark: |  | 200 points | [Writeup Link](./General%20Skills/Based) |
 | plumbing | :white_check_mark: |  | 200 points | [Writeup Link](./General%20Skills/plumbing) |
 | endianness |  |  | 200 points | [Writeup Link](./General%20Skills/endianness) |
-| mus1c | :white_check_mark: |  | 300 points | [Writeup Link](./General%20Skills/mus1c) |
+| mus1c | :white_check_mark: | :white_check_mark:  | 300 points | [Writeup Link](./General%20Skills/mus1c) |
 | flag_shop | :white_check_mark: |  | 300 points | [Writeup Link](./General%20Skills/flag_shop) |
 | Special | :white_check_mark: |  | 300 points | [Writeup Link](./General%20Skills/Special) |
 | dont-you-love-banners |  |  | 300 points | [Writeup Link](./General%20Skills/dont-you-love-banners) |

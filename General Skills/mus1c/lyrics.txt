@@ -1,24 +1,3 @@
-# mus1c
-
-Tags: picoCTF 2019, General Skills
-
-| Author | Point    |
-| ------ | -------- |
-| DANNY |  points |
-
-## Description
-
-I wrote you a song. Put it in the picoCTF{} flag format.
-
-## Hints
-
-1. Do you think you can master rockstar?
-
-## Solve
-
-This is a program written in the Rockstar programming language.
-
-```
 Pico's a CTFFFFFFF
 my mind is waitin
 It's waitin
@@ -74,37 +53,3 @@ shout it
 build it up, up
 shout it
 shout Pico
-```
-
-https://codewithrockstar.com/online
-
-```
-114
-114
-114
-111
-99
-107
-110
-114
-110
-48
-49
-49
-51
-114
-```
-
-Looks like a ascii code.  
-Convert it to ascii to char.
-
-```bash
-$ python3 solver.py
-picoCTF{rrrocknrn0113r}
-```
-
-## Flag
-
-```
-picoCTF{rrrocknrn0113r}
-```
