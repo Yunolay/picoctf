@@ -76,7 +76,7 @@ picoctf writeup
 | It is my Birthday |  |  | 100 points | [Writeup Link](./Web%20Exploitation/It%20is%20my%20Birthday) |
 | Who are you? | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Who%20are%20you) |
 | login | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/login) |
-| Includes | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Includes) |
+| Includes | :white_check_mark: | :white_check_mark: | 100 points | [Writeup Link](./Web%20Exploitation/Includes) |
 | Inspect HTML | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Inspect%20HTML) |
 | Local Authority | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Local%20Authority) |
 | Search source | :white_check_mark: |  | 100 points | [Writeup Link](./Web%20Exploitation/Search%20source) |
@@ -366,7 +366,7 @@ picoctf writeup
 | clutter-overflow |  |  | 150 points | [Writeup Link](./Binary%20Exploitation/clutter-overflow) |
 | filtered-shellcode |  |  | 160 points | [Writeup Link](./Binary%20Exploitation/filtered-shellcode) |
 | Kit Engine |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/Kit%20Engine) |
-| buffer overflow 1 |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%201) |
+| buffer overflow 1 | :white_check_mark: | :white_check_mark: | 200 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%201) |
 | RPS |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/RPS) |
 | x-sixty-what |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/x-sixty-what) |
 | babygame02 |  |  | 200 points | [Writeup Link](./Binary%20Exploitation/babygame02) |
