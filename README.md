@@ -380,7 +380,7 @@ picoctf writeup
 | Stonk Market |  |  | 250 points | [Writeup Link](./Binary%20Exploitation/Stonk%20Market) |
 | fermat-strings |  |  | 250 points | [Writeup Link](./Binary%20Exploitation/fermat-strings) |
 | Guessing Game 2 |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/Guessing%20Game%202) |
-| buffer overflow 2 |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%202) |
+| buffer overflow 2 | :white_check_mark: | :white_check_mark:| 300 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%202) |
 | buffer overflow 3 |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/buffer%20overflow%203) |
 | flag leak |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/flag%20leak) |
 | ropfu |  |  | 300 points | [Writeup Link](./Binary%20Exploitation/ropfu) |
